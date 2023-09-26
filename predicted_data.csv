@@ -1,0 +1,739 @@
+id,year,week,neutral_site,home_team,home_conference,home_points,home_elo,away_team,away_conference,away_points,away_elo,spread,margin,predicted margin
+401282714,2021,1,False,Illinois,Big Ten,30,1392.0,Nebraska,Big Ten,22,1503.0,6.5,-8,-0.035930865
+401286187,2021,1,False,Fresno State,Mountain West,45,1465.0,Connecticut,FBS Independents,0,1223.0,-27.5,-45,-0.06390256
+401309833,2021,1,False,UCLA,Pac-12,44,1517.0,Hawai'i,Mountain West,10,1466.0,-17.5,-34,-0.051387757
+401282049,2021,1,False,New Mexico State,FBS Independents,3,1261.0,UTEP,Conference USA,30,1222.0,9.5,27,-0.07303274
+401300995,2021,1,False,UCF,American Athletic,36,1648.0,Boise State,Mountain West,31,1602.0,-6.5,-5,-0.029329792
+401300993,2021,1,False,Appalachian State,Sun Belt,33,1659.0,East Carolina,American Athletic,19,1403.0,-9.0,-14,0.014535238
+401282607,2021,1,False,NC State,ACC,45,1460.0,South Florida,American Athletic,0,1251.0,-19.0,-45,-0.042000078
+401281952,2021,1,False,Tennessee,SEC,38,1489.0,Bowling Green,Mid-American,6,1041.0,-37.0,-32,-0.041730978
+401282789,2021,1,False,Minnesota,Big Ten,31,1585.0,Ohio State,Big Ten,45,1905.0,14.0,14,-0.16188852
+401309937,2021,1,False,Virginia Tech,ACC,17,1535.0,North Carolina,ACC,10,1725.0,5.5,-7,-0.079141796
+401282052,2021,1,False,Charlotte,Conference USA,31,1366.0,Duke,ACC,28,1295.0,6.5,-3,-0.026884638
+401282608,2021,1,False,Wake Forest,ACC,42,1519.0,Old Dominion,Conference USA,10,1303.0,-32.5,-32,-0.07877751
+401282782,2021,1,False,Northwestern,Big Ten,21,1639.0,Michigan State,Big Ten,38,1424.0,-3.0,17,-0.022953168
+401309601,2021,1,False,Georgia State,Sun Belt,10,1410.0,Army,FBS Independents,43,1549.0,-2.5,33,-0.080375545
+401281947,2021,1,False,Kentucky,SEC,45,1550.0,Louisiana Monroe,Sun Belt,10,1101.0,-31.0,-35,-0.029841535
+401282772,2021,1,False,Michigan,Big Ten,47,1591.0,Western Michigan,Mid-American,14,1510.0,-16.5,-33,-0.052300356
+401282822,2021,1,False,Rutgers,Big Ten,61,1393.0,Temple,American Athletic,14,1304.0,-14.0,-47,-0.053699486
+401287894,2021,1,False,Oklahoma,Big 12,40,1875.0,Tulane,American Athletic,35,1597.0,-31.0,-5,-0.08148525
+401282815,2021,1,False,Wisconsin,Big Ten,10,1745.0,Penn State,Big Ten,16,1668.0,-5.5,6,-0.05710885
+401287889,2021,1,True,Kansas State,Big 12,24,1447.0,Stanford,Pac-12,7,1491.0,-3.0,-17,-0.0166773
+401309838,2021,1,False,Oregon,Pac-12,31,1698.0,Fresno State,Mountain West,24,1566.0,-19.5,-7,-0.04612004
+401281943,2021,1,False,Arkansas,SEC,38,1417.0,Rice,Conference USA,17,1447.0,-19.5,-21,-0.06347947
+401282723,2021,1,False,Iowa,Big Ten,34,1805.0,Indiana,Big Ten,6,1650.0,-3.5,-28,-0.06809878
+401281942,2021,1,True,Miami,ACC,13,1607.0,Alabama,SEC,44,2099.0,19.5,31,-0.25379884
+401282174,2021,1,False,Navy,American Athletic,7,1380.0,Marshall,Conference USA,49,1535.0,3.0,42,-0.09842195
+401300996,2021,1,False,Cincinnati,American Athletic,49,1784.0,Miami (OH),Mid-American,14,1426.0,-22.5,-35,-0.0408701
+401282764,2021,1,False,Maryland,Big Ten,30,1380.0,West Virginia,Big 12,24,1549.0,2.5,-6,-0.03210014
+401282612,2021,1,False,Pittsburgh,ACC,51,1543.0,UMass,FBS Independents,7,1061.0,-37.5,-44,-0.053821042
+401281950,2021,1,False,Missouri,SEC,34,1503.0,Central Michigan,Mid-American,24,1438.0,-14.0,-10,-0.022323474
+401281949,2021,1,False,Mississippi State,SEC,35,1513.0,Louisiana Tech,Conference USA,34,1337.0,-20.5,-1,-0.02847381
+401287892,2021,1,False,Texas,Big 12,38,1767.0,Louisiana,Sun Belt,18,1645.0,-8.5,-20,-0.058627978
+401309842,2021,1,False,USC,Pac-12,30,1628.0,San José State,Mountain West,7,1513.0,-14.0,-23,-0.03339561
+401282611,2021,1,False,Ohio,Mid-American,9,1564.0,Syracuse,ACC,29,1358.0,-2.0,20,-0.023152035
+401282819,2021,1,False,Purdue,Big Ten,30,1470.0,Oregon State,Pac-12,21,1449.0,-7.0,-9,0.0002471693
+401287886,2021,1,True,Houston,American Athletic,21,1495.0,Texas Tech,Big 12,38,1455.0,-2.5,17,-0.0256413
+401287893,2021,1,False,Texas State,Sun Belt,20,1269.0,Baylor,Big 12,29,1525.0,13.5,9,-0.07336631
+401281944,2021,1,False,Auburn,SEC,60,1665.0,Akron,Mid-American,10,1103.0,-37.0,-50,-0.05607885
+401282610,2021,1,False,Georgia Tech,ACC,21,1370.0,Northern Illinois,Mid-American,22,1304.0,-19.0,1,-0.030816913
+401282179,2021,1,False,Illinois,Big Ten,30,1411.0,UT San Antonio,Conference USA,37,1445.0,-4.5,7,-0.008368744
+401281946,2021,1,True,Clemson,ACC,3,1942.0,Georgia,SEC,10,1800.0,-2.5,7,-0.111912966
+401281945,2021,1,False,Florida,SEC,35,1700.0,Florida Atlantic,Conference USA,14,1505.0,-23.5,-21,-0.06390808
+401282053,2021,1,False,Texas A&M,SEC,41,1745.0,Kent State,Mid-American,10,1441.0,-29.5,-31,-0.076354235
+401282177,2021,1,False,South Alabama,Sun Belt,31,1266.0,Southern Mississippi,Conference USA,7,1360.0,-2.0,-24,-0.030910917
+401281948,2021,1,False,UCLA,Pac-12,38,1605.0,LSU,SEC,27,1671.0,2.0,-11,-0.05978205
+401309841,2021,1,True,Arizona,Pac-12,16,1278.0,BYU,FBS Independents,24,1837.0,13.5,8,-0.12045477
+401309837,2021,1,False,California,Pac-12,17,1461.0,Nevada,Mountain West,22,1488.0,-3.0,5,-0.008361638
+401310699,2021,1,False,San Diego State,Mountain West,28,1578.0,New Mexico State,FBS Independents,10,1182.0,-31.0,-18,-0.028493952
+401309840,2021,1,False,Washington State,Pac-12,23,1511.0,Utah State,Mountain West,26,1319.0,-17.0,3,-0.015091151
+401282614,2021,1,False,Florida State,ACC,38,1355.0,Notre Dame,FBS Independents,41,1783.0,7.5,3,-0.09470469
+401282055,2021,1,True,Ole Miss,SEC,43,1576.0,Louisville,ACC,24,1559.0,-9.0,-19,-0.029744059
+401287896,2021,2,False,Coastal Carolina,Sun Belt,49,1636.0,Kansas,Big 12,22,1161.0,-27.0,-27,-0.01568744
+401282191,2021,2,False,Boise State,Mountain West,54,1599.0,UTEP,Conference USA,13,1301.0,-25.0,-41,-0.049463943
+401282624,2021,2,False,Virginia,ACC,42,1509.0,Illinois,Big Ten,14,1400.0,-10.5,-28,-0.016675416
+401282193,2021,2,False,Army,FBS Independents,38,1625.0,Western Kentucky,Conference USA,35,1399.0,-6.0,-3,0.016079796
+401287899,2021,2,False,Oklahoma State,Big 12,28,1661.0,Tulsa,American Athletic,23,1525.0,-12.0,-5,-0.01390399
+401282790,2021,2,False,Minnesota,Big Ten,31,1582.0,Miami (OH),Mid-American,26,1373.0,-19.0,-5,-0.019362435
+401282809,2021,2,False,Ohio State,Big Ten,28,1908.0,Oregon,Pac-12,35,1700.0,-15.0,7,-0.08479413
+401282065,2021,2,False,East Carolina,American Athletic,17,1396.0,South Carolina,SEC,20,1390.0,2.5,3,-0.02034565
+401282066,2021,2,False,Tennessee,SEC,34,1524.0,Pittsburgh,ACC,41,1609.0,3.5,7,-0.04535431
+401282059,2021,2,False,South Florida,American Athletic,20,1146.0,Florida,SEC,42,1730.0,28.5,22,-0.16341266
+401309547,2021,2,False,Northern Illinois,Mid-American,43,1308.0,Wyoming,Mountain West,50,1556.0,7.0,7,-0.047692347
+401282622,2021,2,False,Syracuse,ACC,7,1433.0,Rutgers,Big Ten,17,1523.0,2.5,10,-0.031713437
+401282186,2021,2,False,Virginia Tech,ACC,35,1556.0,Middle Tennessee,Conference USA,14,1315.0,-20.0,-21,-0.018078469
+401282705,2021,2,False,Notre Dame,FBS Independents,32,1764.0,Toledo,Mid-American,29,1443.0,-16.5,-3,-0.011611275
+401282820,2021,2,False,Connecticut,FBS Independents,0,1122.0,Purdue,Big Ten,49,1483.0,35.0,49,-0.17630446
+401282060,2021,2,False,Georgia,SEC,56,1818.0,UAB,Conference USA,7,1521.0,-22.5,-49,-0.070844516
+401301004,2021,2,False,Navy,American Athletic,3,1275.0,Air Force,Mountain West,23,1617.0,6.0,20,-0.07244826
+401282183,2021,2,False,Florida Atlantic,Conference USA,38,1475.0,Georgia Southern,Sun Belt,6,1570.0,-7.0,-32,-0.06317262
+401282816,2021,2,False,Penn State,Big Ten,44,1685.0,Ball State,Mid-American,13,1559.0,-22.5,-31,-0.079437375
+401282623,2021,2,False,UMass,FBS Independents,28,995.0,Boston College,ACC,45,1503.0,39.0,17,-0.18380037
+401282797,2021,2,False,Nebraska,Big Ten,28,1484.0,Buffalo,Mid-American,3,1645.0,-13.5,-25,-0.0810526
+401287900,2021,2,False,TCU,Big 12,34,1646.0,California,Pac-12,32,1454.0,-11.5,-2,0.0013282606
+401300999,2021,2,False,Akron,Mid-American,24,1028.0,Temple,American Athletic,45,1174.0,6.5,21,-0.08293401
+401282067,2021,2,True,Colorado,Pac-12,7,1446.0,Texas A&M,SEC,10,1792.0,17.0,3,-0.12031479
+401309546,2021,2,False,Bowling Green,Mid-American,19,1006.0,South Alabama,Sun Belt,22,1337.0,14.5,3,-0.08859517
+401282754,2021,2,False,Iowa State,Big 12,17,1791.0,Iowa,Big Ten,27,1860.0,-4.0,10,-0.12832525
+401282189,2021,2,False,Rice,Conference USA,7,1394.0,Houston,American Athletic,44,1457.0,7.5,37,-0.083396494
+401282620,2021,2,False,Miami,ACC,25,1585.0,Appalachian State,Sun Belt,23,1666.0,-7.5,-2,-0.05130914
+401282064,2021,2,False,Mississippi State,SEC,24,1508.0,NC State,ACC,10,1565.0,1.5,-14,-0.0311687
+401282825,2021,2,False,Wisconsin,Big Ten,34,1728.0,Eastern Michigan,Mid-American,7,1421.0,-26.0,-27,-0.056078985
+401286295,2021,2,False,Troy,Sun Belt,13,1461.0,Liberty,FBS Independents,21,1563.0,3.0,8,-0.033676155
+401282182,2021,2,False,Florida International,Conference USA,17,1375.0,Texas State,Sun Belt,23,1271.0,-2.0,6,-0.013142731
+401301003,2021,2,False,Arkansas State,Sun Belt,50,1370.0,Memphis,American Athletic,55,1555.0,5.5,5,-0.03928641
+401282187,2021,2,False,SMU,American Athletic,35,1521.0,North Texas,Conference USA,12,1295.0,-22.5,-23,-0.029031716
+401282057,2021,2,False,Arkansas,SEC,40,1470.0,Texas,Big 12,21,1801.0,6.0,-19,-0.1270652
+401310700,2021,2,False,New Mexico,Mountain West,34,1309.0,New Mexico State,FBS Independents,25,1178.0,-19.5,-9,-0.026820682
+401282061,2021,2,False,Kentucky,SEC,35,1593.0,Missouri,SEC,28,1515.0,-5.5,-7,0.0031397892
+401282621,2021,2,False,North Carolina,ACC,59,1704.0,Georgia State,Sun Belt,17,1334.0,-26.0,-42,-0.047573876
+401282773,2021,2,False,Michigan,Big Ten,31,1672.0,Washington,Pac-12,10,1649.0,-6.5,-21,-0.05957888
+401282068,2021,2,False,Colorado State,Mountain West,21,1396.0,Vanderbilt,SEC,24,1225.0,-6.5,3,-0.006746169
+401309846,2021,2,False,Arizona,Pac-12,14,1304.0,San Diego State,Mountain West,38,1582.0,-1.5,24,-0.07036476
+401309848,2021,2,False,BYU,FBS Independents,26,1811.0,Utah,Pac-12,17,1639.0,7.0,-9,-0.06457447
+401309843,2021,2,False,USC,Pac-12,28,1672.0,Stanford,Pac-12,42,1441.0,-17.5,14,-0.030342046
+401309847,2021,2,False,Arizona State,Pac-12,37,1643.0,UNLV,Mountain West,10,1256.0,-34.5,-27,-0.060367852
+401309844,2021,2,False,Oregon State,Pac-12,45,1436.0,Hawai'i,Mountain West,27,1378.0,-11.0,-18,-0.0119746085
+401282626,2021,3,False,Louisville,ACC,42,1509.0,UCF,American Athletic,35,1651.0,7.0,-7,-0.060420007
+401282715,2021,3,False,Illinois,Big Ten,17,1340.0,Maryland,Big Ten,20,1396.0,7.0,3,-0.034815855
+401309552,2021,3,False,Buffalo,Mid-American,25,1562.0,Coastal Carolina,Sun Belt,28,1655.0,14.0,3,-0.081447154
+401282079,2021,3,False,Texas A&M,SEC,34,1778.0,New Mexico,Mountain West,0,1315.0,-30.0,-34,-0.051914588
+401282798,2021,3,False,Oklahoma,Big 12,23,1869.0,Nebraska,Big Ten,16,1567.0,-22.5,-7,-0.053900495
+401282725,2021,3,False,Indiana,Big Ten,24,1595.0,Cincinnati,American Athletic,38,1837.0,4.0,14,-0.13316959
+401282634,2021,3,False,Temple,American Athletic,3,1211.0,Boston College,ACC,28,1496.0,15.0,25,-0.08575817
+401282632,2021,3,False,Pittsburgh,ACC,41,1616.0,Western Michigan,Mid-American,44,1429.0,-14.5,3,-0.01089824
+401282774,2021,3,False,Michigan,Big Ten,63,1719.0,Northern Illinois,Mid-American,10,1313.0,-27.5,-53,-0.055560224
+401282629,2021,3,False,Miami,ACC,17,1587.0,Michigan State,Big Ten,38,1489.0,-7.0,21,-0.03836319
+401282636,2021,3,False,West Virginia,Big 12,27,1533.0,Virginia Tech,ACC,21,1581.0,-2.0,-6,-0.020197108
+401286189,2021,3,False,Army,FBS Independents,52,1623.0,Connecticut,FBS Independents,21,1022.0,-34.5,-31,-0.019337818
+401282791,2021,3,False,Colorado,Pac-12,0,1460.0,Minnesota,Big Ten,30,1579.0,-2.5,30,-0.08016116
+401287905,2021,3,False,Kansas State,Big 12,38,1497.0,Nevada,Mountain West,17,1495.0,1.5,-21,-0.021322437
+401282706,2021,3,False,Notre Dame,FBS Independents,27,1761.0,Purdue,Big Ten,13,1583.0,-7.5,-14,-0.028995186
+401287904,2021,3,False,Kansas,Big 12,7,1142.0,Baylor,Big 12,45,1523.0,17.0,38,-0.11770187
+401282627,2021,3,False,Clemson,ACC,14,1924.0,Georgia Tech,ACC,8,1366.0,-27.5,-6,-0.027028121
+401282755,2021,3,False,Iowa,Big Ten,30,1875.0,Kent State,Mid-American,7,1394.0,-22.5,-23,-0.027177192
+401282635,2021,3,False,Wake Forest,ACC,35,1580.0,Florida State,ACC,14,1374.0,-4.5,-21,0.011698508
+401286300,2021,3,False,UMass,FBS Independents,28,1002.0,Eastern Michigan,Mid-American,42,1386.0,22.0,14,-0.109986186
+401282071,2021,3,False,Florida,SEC,29,1727.0,Alabama,SEC,31,2121.0,14.0,2,-0.23883918
+401309852,2021,3,False,Washington State,Pac-12,14,1494.0,USC,Pac-12,45,1616.0,7.0,31,-0.09399954
+401282810,2021,3,False,Ohio State,Big Ten,41,1878.0,Tulsa,American Athletic,20,1525.0,-24.5,-21,-0.057863742
+401282199,2021,3,False,Louisiana Tech,Conference USA,37,1342.0,SMU,American Athletic,39,1553.0,11.0,2,-0.06336206
+401282628,2021,3,False,Duke,ACC,30,1295.0,Northwestern,Big Ten,23,1574.0,2.5,-7,-0.04763303
+401309553,2021,3,False,Toledo,Mid-American,6,1446.0,Colorado State,Mountain West,22,1381.0,-14.5,16,-0.02763053
+401282076,2021,3,False,Memphis,American Athletic,31,1551.0,Mississippi State,SEC,29,1541.0,3.5,-2,-0.023183115
+401282069,2021,3,False,Arkansas,SEC,45,1550.0,Georgia Southern,Sun Belt,10,1470.0,-23.0,-35,-0.07271999
+401309549,2021,3,False,Wyoming,Mountain West,45,1551.0,Ball State,Mid-American,12,1491.0,-6.5,-33,-0.03727357
+401309605,2021,3,False,Washington,Pac-12,52,1602.0,Arkansas State,Sun Belt,3,1374.0,-17.5,-49,-0.042313643
+401282194,2021,3,False,UT San Antonio,Conference USA,27,1456.0,Middle Tennessee,Conference USA,13,1290.0,-11.5,-14,0.004106608
+401282200,2021,3,False,Marshall,Conference USA,38,1640.0,East Carolina,American Athletic,42,1391.0,-10.0,4,0.007938013
+401282201,2021,3,False,Liberty,FBS Independents,45,1570.0,Old Dominion,Conference USA,17,1242.0,-27.5,-28,-0.035533406
+401282197,2021,3,False,Texas Tech,Big 12,54,1493.0,Florida International,Conference USA,21,1356.0,-20.5,-33,-0.049594417
+401282203,2021,3,False,Southern Mississippi,Conference USA,9,1289.0,Troy,Sun Belt,21,1454.0,11.0,12,-0.055877194
+401282196,2021,3,False,Georgia State,Sun Belt,20,1260.0,Charlotte,Conference USA,9,1366.0,-4.5,-11,-0.028172385
+401282072,2021,3,False,Georgia,SEC,40,1925.0,South Carolina,SEC,13,1395.0,-31.5,-27,-0.062267065
+401309856,2021,3,False,San Diego State,Mountain West,33,1614.0,Utah,Pac-12,31,1636.0,8.0,-2,-0.06205292
+401310704,2021,3,False,Air Force,Mountain West,45,1632.0,Utah State,Mountain West,49,1336.0,-9.0,4,0.015001873
+401282074,2021,3,False,LSU,SEC,49,1646.0,Central Michigan,Mid-American,21,1426.0,-19.5,-28,-0.03620605
+401282195,2021,3,False,North Texas,Conference USA,6,1263.0,UAB,Conference USA,40,1414.0,12.5,34,-0.085571244
+401282631,2021,3,False,North Carolina,ACC,59,1778.0,Virginia,ACC,39,1569.0,-7.5,-20,-0.02935797
+401282070,2021,3,False,Penn State,Big Ten,28,1753.0,Auburn,SEC,20,1740.0,-4.0,-8,-0.08148778
+401282202,2021,3,False,Texas,Big 12,58,1721.0,Rice,Conference USA,0,1293.0,-26.0,-58,-0.050054982
+401282080,2021,3,False,Vanderbilt,SEC,23,1240.0,Stanford,Pac-12,41,1497.0,12.5,18,-0.0701651
+401282075,2021,3,False,Ole Miss,SEC,61,1626.0,Tulane,American Athletic,21,1603.0,-14.0,-40,-0.07713358
+401287903,2021,3,False,Boise State,Mountain West,20,1679.0,Oklahoma State,Big 12,21,1661.0,-3.5,1,-0.051865004
+401309854,2021,3,False,BYU,FBS Independents,27,1814.0,Arizona State,Pac-12,17,1670.0,3.0,-10,-0.06521733
+401287906,2021,3,False,UNLV,Mountain West,3,1229.0,Iowa State,Big 12,48,1776.0,32.0,45,-0.19673118
+401309855,2021,3,False,UCLA,Pac-12,37,1630.0,Fresno State,Mountain West,40,1564.0,-11.0,3,-0.027523272
+401310705,2021,3,False,Hawai'i,Mountain West,13,1343.0,San José State,Mountain West,17,1469.0,8.0,4,-0.03929907
+401282208,2021,4,False,Appalachian State,Sun Belt,31,1664.0,Marshall,Conference USA,30,1616.0,-7.0,-1,-0.035114035
+401282204,2021,4,False,Charlotte,Conference USA,42,1338.0,Middle Tennessee,Conference USA,39,1276.0,-2.5,-3,-0.010742363
+401282638,2021,4,False,Virginia,ACC,17,1543.0,Wake Forest,ACC,37,1609.0,-3.5,20,-0.06564009
+401282637,2021,4,False,Syracuse,ACC,24,1420.0,Liberty,FBS Independents,21,1606.0,6.5,-3,-0.047953624
+401310707,2021,4,False,Fresno State,Mountain West,38,1573.0,UNLV,Mountain West,30,1166.0,-30.0,-8,-0.022838056
+401308834,2021,4,False,Army,FBS Independents,23,1639.0,Miami (OH),Mid-American,10,1376.0,-7.5,-13,0.021043483
+401310706,2021,4,False,Utah State,Mountain West,3,1364.0,Boise State,Mountain West,27,1677.0,9.5,24,-0.09596118
+401282206,2021,4,False,Central Michigan,Mid-American,31,1378.0,Florida International,Conference USA,27,1283.0,-12.0,-4,-0.009091031
+401287910,2021,4,False,TCU,Big 12,34,1644.0,SMU,American Athletic,42,1545.0,-9.5,8,-0.027629696
+401282088,2021,4,False,Vanderbilt,SEC,0,1222.0,Georgia,SEC,62,1938.0,36.0,62,-0.2665085
+401287911,2021,4,False,Texas,Big 12,70,1840.0,Texas Tech,Big 12,35,1566.0,-9.0,-35,-0.044938885
+401282086,2021,4,False,Boston College,ACC,41,1530.0,Missouri,SEC,34,1510.0,-1.0,-7,-0.0010640956
+401282085,2021,4,False,Mississippi State,SEC,25,1540.0,LSU,SEC,28,1694.0,1.5,3,-0.06860943
+401282707,2021,4,True,Wisconsin,Big Ten,13,1763.0,Notre Dame,FBS Independents,41,1774.0,-6.0,28,-0.12552239
+401282792,2021,4,False,Minnesota,Big Ten,10,1648.0,Bowling Green,Mid-American,14,1020.0,-30.5,4,-0.009546412
+401282805,2021,4,False,Northwestern,Big Ten,35,1547.0,Ohio,Mid-American,6,1407.0,-13.5,-29,-0.021810398
+401286301,2021,4,False,Coastal Carolina,Sun Belt,53,1654.0,UMass,FBS Independents,3,1005.0,-36.0,-50,-0.036152065
+401309557,2021,4,False,Eastern Michigan,Mid-American,59,1383.0,Texas State,Sun Belt,21,1290.0,-7.5,-38,-0.025132157
+401309555,2021,4,False,Ball State,Mid-American,12,1408.0,Toledo,Mid-American,22,1401.0,4.5,10,-0.031219147
+401309554,2021,4,False,Western Michigan,Mid-American,23,1445.0,San José State,Mountain West,3,1467.0,-2.5,-20,-0.015316717
+401309861,2021,4,False,Utah,Pac-12,24,1635.0,Washington State,Pac-12,13,1422.0,-15.0,-11,-0.010667156
+401282640,2021,4,False,Florida State,ACC,23,1345.0,Louisville,ACC,31,1527.0,-1.5,8,-0.024456438
+401282756,2021,4,False,Iowa,Big Ten,24,1883.0,Colorado State,Mountain West,14,1426.0,-23.5,-10,-0.029426903
+401282643,2021,4,False,NC State,ACC,27,1532.0,Clemson,ACC,21,1907.0,10.5,-6,-0.14874817
+401282775,2021,4,False,Michigan,Big Ten,20,1824.0,Rutgers,Big Ten,13,1536.0,-20.5,-7,-0.042107936
+401287907,2021,4,False,Baylor,Big 12,31,1585.0,Iowa State,Big 12,29,1839.0,7.0,-2,-0.12288219
+401282082,2021,4,True,Arkansas,SEC,20,1638.0,Texas A&M,SEC,10,1817.0,4.5,-10,-0.11441468
+401282716,2021,4,False,Purdue,Big Ten,13,1570.0,Illinois,Big Ten,9,1339.0,-10.5,-4,0.013359006
+401282765,2021,4,False,Maryland,Big Ten,37,1397.0,Kent State,Mid-American,16,1386.0,-13.0,-21,-0.029659845
+401286190,2021,4,False,Connecticut,FBS Independents,22,1006.0,Wyoming,Mountain West,24,1634.0,31.5,2,-0.1698208
+401282213,2021,4,False,Memphis,American Athletic,28,1552.0,UT San Antonio,Conference USA,31,1470.0,-3.0,3,-0.0005321242
+401282639,2021,4,False,Duke,ACC,52,1322.0,Kansas,Big 12,33,1080.0,-16.5,-19,-0.007440282
+401282083,2021,4,False,Auburn,SEC,34,1729.0,Georgia State,Sun Belt,24,1288.0,-27.5,-10,-0.023434453
+401301011,2021,4,False,Tulsa,American Athletic,41,1510.0,Arkansas State,Sun Belt,34,1257.0,-14.5,-7,0.0069432836
+401282209,2021,4,False,Old Dominion,Conference USA,34,1206.0,Buffalo,Mid-American,35,1563.0,13.0,1,-0.079428285
+401309610,2021,4,False,Georgia Southern,Sun Belt,20,1382.0,Louisiana,Sun Belt,28,1693.0,14.5,8,-0.088908024
+401309858,2021,4,False,Stanford,Pac-12,24,1515.0,UCLA,Pac-12,35,1621.0,4.0,11,-0.05766298
+401282084,2021,4,False,Florida,SEC,38,1744.0,Tennessee,SEC,14,1517.0,-19.0,-24,-0.04472332
+401282087,2021,4,False,South Carolina,SEC,10,1382.0,Kentucky,SEC,16,1598.0,4.5,6,-0.042439215
+401282784,2021,4,False,Michigan State,Big Ten,23,1554.0,Nebraska,Big Ten,20,1573.0,-3.5,-3,-0.01623516
+401282205,2021,4,False,Louisiana Tech,Conference USA,24,1350.0,North Texas,Conference USA,17,1185.0,-10.5,-7,-0.0043448247
+401287909,2021,4,False,Oklahoma State,Big 12,31,1663.0,Kansas State,Big 12,20,1547.0,-6.0,-11,-0.012323048
+401301008,2021,4,False,Houston,American Athletic,28,1558.0,Navy,American Athletic,20,1260.0,-20.0,-8,-0.0015943181
+401282641,2021,4,True,Georgia Tech,ACC,45,1383.0,North Carolina,ACC,22,1804.0,14.5,-23,-0.14796789
+401282081,2021,4,False,Alabama,SEC,63,2104.0,Southern Mississippi,Conference USA,14,1278.0,-45.0,-49,-0.09173374
+401287908,2021,4,False,Oklahoma,Big 12,16,1863.0,West Virginia,Big 12,13,1543.0,-17.5,-3,-0.0376663
+401282811,2021,4,False,Ohio State,Big Ten,59,1893.0,Akron,Mid-American,7,991.0,-48.5,-52,-0.06939504
+401282214,2021,4,False,Western Kentucky,Conference USA,31,1401.0,Indiana,Big Ten,33,1586.0,9.5,2,-0.057634182
+401282211,2021,4,False,Tulane,American Athletic,21,1490.0,UAB,Conference USA,28,1492.0,-2.5,7,-0.010835936
+401309611,2021,4,False,Louisiana Monroe,Sun Belt,29,1058.0,Troy,Sun Belt,16,1465.0,23.5,-13,-0.11192629
+401310708,2021,4,False,New Mexico State,FBS Independents,21,1172.0,Hawai'i,Mountain West,41,1345.0,17.0,20,-0.08413862
+401282207,2021,4,False,Air Force,Mountain West,31,1604.0,Florida Atlantic,Conference USA,7,1575.0,-3.5,-24,-0.040565334
+401282212,2021,4,False,UTEP,Conference USA,20,1221.0,New Mexico,Mountain West,13,1276.0,2.5,-7,-0.037723064
+401309857,2021,4,False,Washington,Pac-12,31,1719.0,California,Pac-12,24,1456.0,-7.5,-7,0.0025261622
+401301009,2021,4,False,BYU,FBS Independents,35,1821.0,South Florida,American Athletic,27,1149.0,-23.5,-8,0.012826786
+401309860,2021,4,False,USC,Pac-12,27,1688.0,Oregon State,Pac-12,45,1471.0,-11.0,18,-0.033016574
+401309862,2021,4,False,Arizona State,Pac-12,35,1663.0,Colorado,Pac-12,13,1391.0,-14.0,-22,-0.005888585
+401309859,2021,4,False,Oregon,Pac-12,41,1730.0,Arizona,Pac-12,19,1272.0,-29.5,-22,-0.035297103
+401282646,2021,5,False,Miami,ACC,28,1522.0,Virginia,ACC,30,1500.0,-3.5,2,7.883459e-05
+401301012,2021,5,False,Tulsa,American Athletic,10,1506.0,Houston,American Athletic,45,1553.0,-3.5,35,-0.08563069
+401282759,2021,5,False,Maryland,Big Ten,14,1446.0,Iowa,Big Ten,51,1870.0,3.0,37,-0.17849827
+401309912,2021,5,False,Utah State,Mountain West,20,1336.0,BYU,FBS Independents,34,1797.0,8.0,14,-0.106227554
+401309561,2021,5,False,Buffalo,Mid-American,17,1548.0,Western Michigan,Mid-American,24,1494.0,7.0,7,-0.03395224
+401282793,2021,5,False,Purdue,Big Ten,13,1566.0,Minnesota,Big Ten,20,1592.0,-2.5,7,-0.03341373
+401282776,2021,5,False,Wisconsin,Big Ten,17,1696.0,Michigan,Big Ten,38,1818.0,-2.5,21,-0.12256622
+401282219,2021,5,False,Illinois,Big Ten,24,1343.0,Charlotte,Conference USA,14,1338.0,-10.5,-10,-0.014664002
+401282093,2021,5,False,Missouri,SEC,24,1502.0,Tennessee,SEC,62,1482.0,-2.5,38,-0.07746742
+401282090,2021,5,False,Georgia,SEC,37,2033.0,Arkansas,SEC,0,1677.0,-16.5,-37,-0.09310681
+401282650,2021,5,False,North Carolina,ACC,38,1684.0,Duke,ACC,7,1342.0,-19.5,-31,-0.019554831
+401301015,2021,5,False,Temple,American Athletic,34,1177.0,Memphis,American Athletic,31,1542.0,11.0,-3,-0.07214934
+401287915,2021,5,False,TCU,Big 12,27,1620.0,Texas,Big 12,32,1903.0,4.0,5,-0.15507486
+401286302,2021,5,False,UMass,FBS Independents,7,941.0,Toledo,Mid-American,45,1422.0,27.0,38,-0.137198
+401282649,2021,5,False,Georgia Tech,ACC,21,1503.0,Pittsburgh,ACC,52,1600.0,3.0,31,-0.08496153
+401282651,2021,5,False,Wake Forest,ACC,37,1652.0,Louisville,ACC,34,1528.0,-7.0,-3,-0.0047228523
+401309612,2021,5,False,Georgia State,Sun Belt,16,1300.0,Appalachian State,Sun Belt,45,1663.0,10.0,29,-0.102719635
+401309867,2021,5,False,Colorado,Pac-12,14,1366.0,USC,Pac-12,37,1619.0,9.0,23,-0.0823262
+401309614,2021,5,False,Coastal Carolina,Sun Belt,59,1718.0,Louisiana Monroe,Sun Belt,6,1122.0,-33.5,-53,-0.04518456
+401309558,2021,5,False,Northern Illinois,Mid-American,27,1208.0,Eastern Michigan,Mid-American,20,1479.0,-1.5,-7,-0.04216708
+401282708,2021,5,False,Notre Dame,FBS Independents,13,1841.0,Cincinnati,American Athletic,24,1846.0,2.0,11,-0.12845165
+401310711,2021,5,False,Boise State,Mountain West,31,1705.0,Nevada,Mountain West,41,1445.0,-3.5,10,-0.018615998
+401287916,2021,5,False,West Virginia,Big 12,20,1546.0,Texas Tech,Big 12,23,1503.0,-7.5,3,-0.0046076104
+401301013,2021,5,False,Navy,American Athletic,34,1265.0,UCF,American Athletic,30,1633.0,15.0,-4,-0.09389903
+401301014,2021,5,False,East Carolina,American Athletic,52,1415.0,Tulane,American Athletic,29,1477.0,3.0,-23,-0.028205868
+401309560,2021,5,False,Akron,Mid-American,17,950.0,Ohio,Mid-American,34,1347.0,9.5,17,-0.09053688
+401309562,2021,5,False,Kent State,Mid-American,27,1337.0,Bowling Green,Mid-American,20,1076.0,-16.5,-7,-0.010133527
+401308835,2021,5,False,Miami (OH),Mid-American,28,1371.0,Central Michigan,Mid-American,17,1378.0,1.5,-11,-0.011475792
+401282813,2021,5,False,Rutgers,Big Ten,13,1542.0,Ohio State,Big Ten,52,1934.0,15.0,39,-0.2042159
+401309864,2021,5,False,Stanford,Pac-12,31,1501.0,Oregon,Pac-12,24,1738.0,8.5,-7,-0.090216
+401287913,2021,5,False,Kansas State,Big 12,31,1536.0,Oklahoma,Big 12,37,1860.0,12.5,6,-0.13368563
+401282094,2021,5,False,South Carolina,SEC,23,1387.0,Troy,Sun Belt,14,1401.0,-6.5,-9,-0.007223133
+401282215,2021,5,False,Florida Atlantic,Conference USA,58,1519.0,Florida International,Conference USA,21,1283.0,-10.5,-37,-0.00925036
+401282089,2021,5,False,Alabama,SEC,42,2145.0,Ole Miss,SEC,21,1739.0,-15.0,-21,-0.10061517
+401282648,2021,5,False,Florida State,ACC,33,1344.0,Syracuse,ACC,30,1424.0,-5.5,-3,-0.012811221
+401309613,2021,5,False,Georgia Southern,Sun Belt,59,1390.0,Arkansas State,Sun Belt,33,1261.0,-2.0,-26,-5.8598816e-06
+401301016,2021,5,False,SMU,American Athletic,41,1569.0,South Florida,American Athletic,17,1173.0,-21.0,-24,-0.00097060576
+401309559,2021,5,False,Ball State,Mid-American,28,1387.0,Army,FBS Independents,16,1644.0,10.0,-12,-0.07844736
+401309863,2021,5,False,California,Pac-12,6,1461.0,Washington State,Pac-12,21,1418.0,-7.5,15,-0.013518486
+401282220,2021,5,False,NC State,ACC,34,1560.0,Louisiana Tech,Conference USA,27,1351.0,-17.5,-7,-0.007944401
+401282222,2021,5,False,UT San Antonio,Conference USA,24,1480.0,UNLV,Mountain West,17,1177.0,-21.5,-7,-0.008457899
+401282091,2021,5,False,Kentucky,SEC,20,1593.0,Florida,SEC,13,1779.0,7.5,-7,-0.10086702
+401282218,2021,5,False,Rice,Conference USA,24,1174.0,Southern Mississippi,Conference USA,19,1237.0,-1.5,-5,-0.03982301
+401310710,2021,5,False,New Mexico,Mountain West,10,1263.0,Air Force,Mountain West,38,1660.0,11.5,28,-0.103519455
+401287912,2021,5,False,Iowa State,Big 12,59,1835.0,Kansas,Big 12,7,1060.0,-34.5,-52,-0.03083986
+401282216,2021,5,False,Middle Tennessee,Conference USA,34,1276.0,Marshall,Conference USA,28,1617.0,10.5,-6,-0.0752803
+401282221,2021,5,False,UAB,Conference USA,12,1505.0,Liberty,FBS Independents,36,1602.0,-3.0,24,-0.072669685
+401287914,2021,5,False,Oklahoma State,Big 12,24,1674.0,Baylor,Big 12,14,1589.0,-4.0,-10,-0.026840877
+401282095,2021,5,False,Texas A&M,SEC,22,1778.0,Mississippi State,SEC,26,1545.0,-7.0,4,-0.027258564
+401282647,2021,5,False,Clemson,ACC,19,1879.0,Boston College,ACC,13,1538.0,-14.5,-6,-0.030257955
+401282096,2021,5,False,Vanderbilt,SEC,30,1127.0,Connecticut,FBS Independents,28,1033.0,-14.5,-2,-0.043019194
+401282729,2021,5,False,Penn State,Big Ten,24,1764.0,Indiana,Big Ten,0,1579.0,-12.5,-24,-0.04152763
+401282223,2021,5,False,Michigan State,Big Ten,48,1555.0,Western Kentucky,Conference USA,31,1408.0,-10.5,-17,-0.00061799865
+401282800,2021,5,False,Nebraska,Big Ten,56,1572.0,Northwestern,Big Ten,7,1607.0,-11.5,-49,-0.09349642
+401309615,2021,5,False,South Alabama,Sun Belt,18,1323.0,Louisiana,Sun Belt,20,1685.0,12.0,2,-0.08293272
+401282217,2021,5,False,UTEP,Conference USA,28,1234.0,Old Dominion,Conference USA,21,1221.0,-5.5,-7,-0.024711445
+401282092,2021,5,False,LSU,SEC,19,1689.0,Auburn,SEC,24,1717.0,-3.0,5,-0.07469335
+401309865,2021,5,False,Oregon State,Pac-12,27,1540.0,Washington,Pac-12,24,1714.0,-2.5,-3,-0.07482013
+401309866,2021,5,False,UCLA,Pac-12,23,1635.0,Arizona State,Pac-12,42,1688.0,-3.0,19,-0.08489361
+401310713,2021,5,False,San José State,Mountain West,37,1418.0,New Mexico State,FBS Independents,31,1140.0,-25.5,-6,-0.025013037
+401310712,2021,5,False,Hawai'i,Mountain West,27,1377.0,Fresno State,Mountain West,24,1562.0,10.5,-3,-0.05970989
+401301017,2021,6,False,Tulane,American Athletic,22,1413.0,Houston,American Athletic,40,1649.0,6.5,18,-0.07542318
+401309616,2021,6,False,Arkansas State,Sun Belt,20,1209.0,Coastal Carolina,Sun Belt,52,1798.0,20.0,32,-0.15184242
+401282224,2021,6,False,Florida International,Conference USA,33,1209.0,Charlotte,Conference USA,45,1321.0,3.5,12,-0.047854494
+401301018,2021,6,False,Cincinnati,American Athletic,52,1869.0,Temple,American Athletic,3,1183.0,-30.0,-49,-0.031477287
+401309868,2021,6,False,Arizona State,Pac-12,28,1729.0,Stanford,Pac-12,10,1525.0,-13.5,-18,-0.026182957
+401282098,2021,6,False,Florida,SEC,42,1758.0,Vanderbilt,SEC,0,1126.0,-39.0,-42,-0.058837377
+401282100,2021,6,False,Ole Miss,SEC,52,1729.0,Arkansas,SEC,51,1617.0,-5.0,-1,-0.038108513
+401309564,2021,6,False,Toledo,Mid-American,20,1472.0,Northern Illinois,Mid-American,22,1234.0,-13.0,2,-0.003779633
+401287917,2021,6,False,Baylor,Big 12,45,1578.0,West Virginia,Big 12,20,1539.0,-1.0,-25,-0.04160409
+401282788,2021,6,False,Rutgers,Big Ten,13,1478.0,Michigan State,Big Ten,31,1579.0,4.0,18,-0.056246206
+401287918,2021,6,True,Texas,Big 12,48,1893.0,Oklahoma,Big 12,55,1848.0,4.0,7,-0.133961
+401282102,2021,6,False,Tennessee,SEC,45,1598.0,South Carolina,SEC,20,1402.0,-10.5,-25,-0.0021223426
+401282769,2021,6,False,Ohio State,Big Ten,66,1998.0,Maryland,Big Ten,17,1392.0,-21.5,-49,-0.031604487
+401309566,2021,6,False,Bowling Green,Mid-American,20,1080.0,Akron,Mid-American,35,948.0,-14.0,15,-0.057182148
+401282652,2021,6,False,Duke,ACC,27,1299.0,Georgia Tech,ACC,31,1428.0,4.5,4,-0.034473307
+401282226,2021,6,False,Marshall,Conference USA,20,1591.0,Old Dominion,Conference USA,13,1212.0,-21.0,-7,0.0040481184
+401282653,2021,6,False,Louisville,ACC,33,1529.0,Virginia,ACC,34,1504.0,-2.5,1,-0.0002836017
+401282097,2021,6,False,Auburn,SEC,10,1724.0,Georgia,SEC,34,2093.0,14.5,24,-0.24135607
+401282654,2021,6,False,North Carolina,ACC,25,1727.0,Florida State,ACC,35,1346.0,-17.5,10,-0.007674154
+401282229,2021,6,False,Liberty,FBS Independents,41,1654.0,Middle Tennessee,Conference USA,13,1302.0,-20.0,-28,-0.016773032
+401282655,2021,6,False,Syracuse,ACC,37,1422.0,Wake Forest,ACC,40,1651.0,6.0,3,-0.051189065
+401282225,2021,6,False,UAB,Conference USA,31,1453.0,Florida Atlantic,Conference USA,14,1593.0,-3.5,-17,-0.043474
+401286191,2021,6,False,UMass,FBS Independents,27,891.0,Connecticut,FBS Independents,13,1034.0,3.0,-14,-0.07945932
+401308836,2021,6,False,Eastern Michigan,Mid-American,13,1453.0,Miami (OH),Mid-American,12,1391.0,2.5,-1,-0.011474928
+401309913,2021,6,False,BYU,FBS Independents,17,1788.0,Boise State,Mountain West,26,1660.0,-6.0,9,-0.05899944
+401309567,2021,6,False,Ohio,Mid-American,27,1349.0,Central Michigan,Mid-American,30,1358.0,5.0,3,-0.027308434
+401310715,2021,6,False,Colorado State,Mountain West,32,1439.0,San José State,Mountain West,14,1412.0,-3.5,-18,-0.004186183
+401301021,2021,6,False,Navy,American Athletic,24,1280.0,SMU,American Athletic,31,1587.0,13.5,7,-0.08069328
+401309563,2021,6,False,Western Michigan,Mid-American,20,1511.0,Ball State,Mid-American,45,1432.0,-12.5,25,-0.03503162
+401282718,2021,6,False,Illinois,Big Ten,0,1360.0,Wisconsin,Big Ten,24,1656.0,12.0,24,-0.09678437
+401309869,2021,6,False,Washington State,Pac-12,31,1457.0,Oregon State,Pac-12,24,1543.0,4.0,-7,-0.030808702
+401282758,2021,6,False,Iowa,Big Ten,23,1924.0,Penn State,Big Ten,20,1804.0,-2.5,-3,-0.11240707
+401282101,2021,6,False,Missouri,SEC,48,1386.0,North Texas,Conference USA,35,1184.0,-18.5,-13,-0.011933766
+401301019,2021,6,False,UCF,American Athletic,20,1618.0,East Carolina,American Athletic,16,1479.0,-10.0,-4,0.000798475
+401309617,2021,6,False,Troy,Sun Belt,27,1386.0,Georgia Southern,Sun Belt,24,1442.0,-5.5,-3,-0.0072336346
+401309565,2021,6,False,Kent State,Mid-American,48,1333.0,Buffalo,Mid-American,38,1531.0,-7.0,-10,-0.03419713
+401287919,2021,6,False,Texas Tech,Big 12,31,1510.0,TCU,Big 12,52,1630.0,2.5,21,-0.07310051
+401310714,2021,6,False,Air Force,Mountain West,24,1690.0,Wyoming,Mountain West,14,1607.0,-5.5,-10,-0.03103035
+401309619,2021,6,False,Texas State,Sun Belt,33,1194.0,South Alabama,Sun Belt,31,1339.0,4.0,-2,-0.04384247
+401282228,2021,6,False,Western Kentucky,Conference USA,46,1384.0,UT San Antonio,Conference USA,52,1474.0,-3.5,6,-0.013182348
+401282227,2021,6,False,Southern Mississippi,Conference USA,13,1229.0,UTEP,Conference USA,26,1243.0,1.5,13,-0.04166314
+401282099,2021,6,False,Kentucky,SEC,42,1614.0,LSU,SEC,21,1682.0,-2.0,-21,-0.071957976
+401282656,2021,6,False,Virginia Tech,ACC,29,1571.0,Notre Dame,FBS Independents,32,1818.0,-1.0,3,-0.11812094
+401282778,2021,6,False,Nebraska,Big Ten,29,1729.0,Michigan,Big Ten,32,1858.0,2.5,3,-0.13387814
+401309618,2021,6,False,Louisiana Monroe,Sun Belt,21,1042.0,Georgia State,Sun Belt,55,1263.0,16.0,34,-0.10576032
+401309871,2021,6,False,USC,Pac-12,26,1651.0,Utah,Pac-12,42,1639.0,-3.0,16,-0.06676562
+401282103,2021,6,False,Texas A&M,SEC,41,1755.0,Alabama,SEC,38,2155.0,18.5,-3,-0.25260252
+401310716,2021,6,False,San Diego State,Mountain West,31,1615.0,New Mexico,Mountain West,7,1233.0,-19.5,-24,-0.0016685463
+401301020,2021,6,False,Tulsa,American Athletic,35,1410.0,Memphis,American Athletic,29,1536.0,-3.0,-6,-0.0173539
+401310717,2021,6,False,Nevada,Mountain West,55,1490.0,New Mexico State,FBS Independents,28,1146.0,-28.5,-27,-0.027767047
+401309870,2021,6,False,Arizona,Pac-12,16,1264.0,UCLA,Pac-12,34,1594.0,16.0,18,-0.09274468
+401309620,2021,7,False,Louisiana,Sun Belt,41,1669.0,Appalachian State,Sun Belt,13,1700.0,4.0,-28,-0.09513509
+401309621,2021,7,False,South Alabama,Sun Belt,41,1337.0,Georgia Southern,Sun Belt,14,1440.0,-2.5,-27,-0.03688622
+401301022,2021,7,False,Memphis,American Athletic,35,1522.0,Navy,American Athletic,17,1289.0,-11.0,-18,0.010072425
+401282231,2021,7,False,North Texas,Conference USA,21,1175.0,Marshall,Conference USA,49,1581.0,11.0,28,-0.08954227
+401282657,2021,7,False,Syracuse,ACC,14,1431.0,Clemson,ACC,17,1871.0,13.5,3,-0.13098006
+401309872,2021,7,False,Oregon,Pac-12,24,1714.0,California,Pac-12,17,1422.0,-13.5,-7,0.00056989584
+401310723,2021,7,False,San José State,Mountain West,13,1374.0,San Diego State,Mountain West,19,1635.0,9.5,6,-0.06334802
+401282106,2021,7,False,LSU,SEC,49,1625.0,Florida,SEC,42,1801.0,12.5,-7,-0.11833568
+401282104,2021,7,False,Arkansas,SEC,23,1620.0,Auburn,SEC,38,1702.0,-4.5,15,-0.08124146
+401282731,2021,7,False,Indiana,Big Ten,15,1539.0,Michigan State,Big Ten,20,1612.0,3.5,5,-0.042778052
+401301024,2021,7,False,South Florida,American Athletic,31,1155.0,Tulsa,American Athletic,32,1424.0,7.0,1,-0.055183575
+401286192,2021,7,False,Connecticut,FBS Independents,21,839.0,Yale,Ivy,15,1789.0,3.5,-6,-0.17348498
+401287924,2021,7,False,Texas,Big 12,24,1882.0,Oklahoma State,Big 12,32,1685.0,-3.5,8,-0.07185879
+401301023,2021,7,False,Cincinnati,American Athletic,56,1926.0,UCF,American Athletic,21,1617.0,-21.5,-35,-0.07924287
+401309571,2021,7,False,Buffalo,Mid-American,27,1499.0,Ohio,Mid-American,26,1345.0,-7.5,-1,0.005619419
+401282108,2021,7,False,Missouri,SEC,14,1395.0,Texas A&M,SEC,35,1762.0,11.5,21,-0.119249016
+401282796,2021,7,False,Minnesota,Big Ten,30,1603.0,Nebraska,Big Ten,23,1732.0,4.5,-7,-0.08167062
+401282807,2021,7,False,Northwestern,Big Ten,21,1450.0,Rutgers,Big Ten,7,1445.0,2.5,-14,-0.008658372
+401282660,2021,7,False,Virginia,ACC,48,1506.0,Duke,ACC,0,1301.0,-10.5,-48,-0.0324579
+401309568,2021,7,False,Eastern Michigan,Mid-American,31,1452.0,Ball State,Mid-American,38,1509.0,1.0,7,-0.020991668
+401308837,2021,7,False,Miami (OH),Mid-American,34,1392.0,Akron,Mid-American,21,997.0,-20.0,-13,-0.002909515
+401309622,2021,7,False,Texas State,Sun Belt,28,1196.0,Troy,Sun Belt,31,1388.0,7.5,3,-0.052250735
+401282234,2021,7,False,Southern Mississippi,Conference USA,0,1201.0,UAB,Conference USA,34,1504.0,17.0,34,-0.10564944
+401282232,2021,7,False,Old Dominion,Conference USA,20,1222.0,Western Kentucky,Conference USA,43,1380.0,13.5,23,-0.07685502
+401282659,2021,7,False,North Carolina,ACC,45,1669.0,Miami,ACC,42,1518.0,-7.5,-3,-0.0037614927
+401282661,2021,7,False,Virginia Tech,ACC,7,1581.0,Pittsburgh,ACC,28,1675.0,6.5,21,-0.08657895
+401309570,2021,7,False,Northern Illinois,Mid-American,34,1251.0,Bowling Green,Mid-American,26,1031.0,-9.0,-8,-0.013729472
+401309569,2021,7,False,Central Michigan,Mid-American,26,1362.0,Toledo,Mid-American,23,1455.0,5.0,-3,-0.026326582
+401287920,2021,7,False,Baylor,Big 12,38,1637.0,BYU,FBS Independents,24,1759.0,-5.5,-14,-0.093212694
+401282105,2021,7,False,Georgia,SEC,30,2115.0,Kentucky,SEC,13,1671.0,-21.5,-17,-0.090823606
+401282760,2021,7,False,Iowa,Big Ten,7,1923.0,Purdue,Big Ten,24,1555.0,-11.5,17,-0.06188716
+401310721,2021,7,False,Wyoming,Mountain West,0,1596.0,Fresno State,Mountain West,17,1558.0,3.0,17,-0.05046823
+401309875,2021,7,False,Colorado,Pac-12,34,1334.0,Arizona,Pac-12,0,1253.0,-6.0,-34,-0.019877043
+401309572,2021,7,False,Western Michigan,Mid-American,64,1434.0,Kent State,Mid-American,31,1365.0,-7.0,-33,-0.023785204
+401287921,2021,7,False,Kansas,Big 12,14,1005.0,Texas Tech,Big 12,41,1470.0,18.5,27,-0.10072368
+401282109,2021,7,False,South Carolina,SEC,21,1361.0,Vanderbilt,SEC,20,1083.0,-18.5,-1,-0.016165264
+401282233,2021,7,False,UT San Antonio,Conference USA,45,1478.0,Rice,Conference USA,0,1182.0,-17.0,-45,-0.022212997
+401286296,2021,7,False,Louisiana Monroe,Sun Belt,31,973.0,Liberty,FBS Independents,28,1688.0,32.5,-3,-0.18491143
+401282107,2021,7,False,Mississippi State,SEC,9,1568.0,Alabama,SEC,49,2148.0,17.5,40,-0.28076145
+401310720,2021,7,False,UNLV,Mountain West,24,1183.0,Utah State,Mountain West,28,1345.0,7.0,4,-0.05161906
+401310719,2021,7,False,New Mexico,Mountain West,7,1213.0,Colorado State,Mountain West,36,1477.0,13.0,29,-0.085778706
+401282658,2021,7,False,Boston College,ACC,7,1546.0,NC State,ACC,33,1558.0,3.0,26,-0.06699022
+401287923,2021,7,False,Oklahoma,Big 12,52,1859.0,TCU,Big 12,31,1670.0,-12.5,-21,-0.07259016
+401282110,2021,7,False,Tennessee,SEC,26,1639.0,Ole Miss,SEC,31,1726.0,1.0,5,-0.080848336
+401287922,2021,7,False,Kansas State,Big 12,20,1548.0,Iowa State,Big 12,33,1890.0,6.5,13,-0.15416881
+401309873,2021,7,False,Washington State,Pac-12,34,1472.0,Stanford,Pac-12,31,1504.0,-1.0,-3,-0.0041139685
+401282826,2021,7,False,Wisconsin,Big Ten,20,1686.0,Army,FBS Independents,14,1599.0,-14.0,-6,-0.03942678
+401309874,2021,7,False,Washington,Pac-12,17,1711.0,UCLA,Pac-12,24,1605.0,-1.5,7,-0.04154277
+401310718,2021,7,False,Boise State,Mountain West,17,1689.0,Air Force,Mountain West,24,1701.0,-3.0,7,-0.068244636
+401282230,2021,7,False,UTEP,Conference USA,19,1271.0,Louisiana Tech,Conference USA,3,1353.0,6.5,-16,-0.02889571
+401309876,2021,7,False,Utah,Pac-12,35,1678.0,Arizona State,Pac-12,21,1750.0,-1.5,-14,-0.09109135
+401310722,2021,7,False,Nevada,Mountain West,34,1522.0,Hawai'i,Mountain West,17,1381.0,-14.0,-17,-0.010035025
+401309623,2021,8,False,Appalachian State,Sun Belt,30,1623.0,Coastal Carolina,Sun Belt,27,1819.0,4.5,-3,-0.11394113
+401309624,2021,8,False,Arkansas State,Sun Belt,27,1188.0,Louisiana,Sun Belt,28,1746.0,18.0,1,-0.1253182
+401282235,2021,8,False,Charlotte,Conference USA,9,1337.0,Florida Atlantic,Conference USA,38,1542.0,6.5,29,-0.07826465
+401301025,2021,8,False,SMU,American Athletic,55,1578.0,Tulane,American Athletic,26,1393.0,-14.0,-29,-0.01708658
+401310729,2021,8,False,UNLV,Mountain West,20,1187.0,San José State,Mountain West,27,1382.0,6.0,7,-0.051317476
+401282239,2021,8,False,Connecticut,FBS Independents,13,993.0,Middle Tennessee,Conference USA,44,1268.0,14.0,31,-0.100670554
+401301026,2021,8,False,UCF,American Athletic,24,1558.0,Memphis,American Athletic,7,1540.0,-1.0,-17,-0.024249107
+401310725,2021,8,False,Utah State,Mountain West,26,1341.0,Colorado State,Mountain West,24,1525.0,3.0,-2,-0.02965197
+401309877,2021,8,False,Arizona,Pac-12,16,1169.0,Washington,Pac-12,21,1689.0,17.0,5,-0.115894675
+401301027,2021,8,False,Navy,American Athletic,20,1271.0,Cincinnati,American Athletic,27,1985.0,28.5,7,-0.19586387
+401282663,2021,8,False,Florida State,ACC,59,1404.0,UMass,FBS Independents,3,932.0,-35.5,-56,-0.050735652
+401282662,2021,8,False,Army,FBS Independents,56,1596.0,Wake Forest,ACC,70,1642.0,3.0,14,-0.061179444
+401287928,2021,8,False,Texas Tech,Big 12,24,1491.0,Kansas State,Big 12,25,1549.0,1.0,1,-0.017107561
+401282779,2021,8,False,Michigan,Big Ten,33,1855.0,Northwestern,Big Ten,7,1478.0,-23.5,-26,-0.048586458
+401282717,2021,8,False,Penn State,Big Ten,18,1805.0,Illinois,Big Ten,20,1330.0,-24.5,2,-0.015101545
+401309574,2021,8,False,Bowling Green,Mid-American,24,1032.0,Eastern Michigan,Mid-American,55,1443.0,4.0,31,-0.08137927
+401309577,2021,8,False,Central Michigan,Mid-American,38,1364.0,Northern Illinois,Mid-American,39,1250.0,-6.0,1,-0.008923478
+401287926,2021,8,False,Kansas,Big 12,23,984.0,Oklahoma,Big 12,35,1889.0,38.5,12,-0.22740418
+401282668,2021,8,False,Virginia Tech,ACC,36,1538.0,Syracuse,ACC,41,1451.0,-3.5,5,0.00075084064
+401309576,2021,8,False,Ohio,Mid-American,27,1349.0,Kent State,Mid-American,34,1283.0,5.5,7,-0.03267592
+401309625,2021,8,False,Georgia State,Sun Belt,28,1332.0,Texas State,Sun Belt,16,1203.0,-10.5,-12,-0.0046430957
+401282821,2021,8,False,Purdue,Big Ten,13,1639.0,Wisconsin,Big Ten,30,1689.0,3.5,17,-0.08028695
+401287925,2021,8,False,Iowa State,Big 12,24,1889.0,Oklahoma State,Big 12,21,1718.0,-7.0,-3,-0.0785089
+401309878,2021,8,False,California,Pac-12,26,1428.0,Colorado,Pac-12,3,1418.0,-8.5,-23,-0.022031773
+401282767,2021,8,False,Minnesota,Big Ten,34,1620.0,Maryland,Big Ten,16,1326.0,-4.0,-18,0.021327885
+401310726,2021,8,False,Wyoming,Mountain West,3,1551.0,New Mexico,Mountain West,14,1165.0,-20.0,11,-0.007966161
+401282238,2021,8,False,UAB,Conference USA,24,1563.0,Rice,Conference USA,30,1089.0,-23.5,6,-0.009181503
+401282666,2021,8,False,Pittsburgh,ACC,27,1718.0,Clemson,ACC,17,1851.0,-3.5,-10,-0.12446746
+401309575,2021,8,False,Akron,Mid-American,10,1002.0,Buffalo,Mid-American,45,1495.0,13.5,35,-0.09980163
+401309573,2021,8,False,Toledo,Mid-American,34,1453.0,Western Michigan,Mid-American,15,1516.0,1.5,-19,-0.025382362
+401309881,2021,8,False,Washington State,Pac-12,19,1473.0,BYU,FBS Independents,21,1720.0,3.5,2,-0.07342337
+401308838,2021,8,False,Ball State,Mid-American,17,1518.0,Miami (OH),Mid-American,24,1387.0,-3.5,7,-0.002988426
+401309879,2021,8,False,UCLA,Pac-12,31,1627.0,Oregon,Pac-12,34,1708.0,-1.0,3,-0.07287736
+401282113,2021,8,False,Ole Miss,SEC,31,1729.0,LSU,SEC,17,1645.0,-9.0,-14,-0.05549547
+401282115,2021,8,False,Vanderbilt,SEC,6,1091.0,Mississippi State,SEC,45,1524.0,20.5,39,-0.1265238
+401301028,2021,8,False,Houston,American Athletic,31,1669.0,East Carolina,American Athletic,24,1480.0,-13.5,-7,-0.011388037
+401282240,2021,8,False,North Texas,Conference USA,26,1146.0,Liberty,FBS Independents,35,1676.0,21.0,9,-0.12741475
+401282664,2021,8,False,Louisville,ACC,28,1527.0,Boston College,ACC,14,1477.0,-4.0,-14,-0.0018287152
+401301029,2021,8,False,South Florida,American Athletic,34,1166.0,Temple,American Athletic,14,1126.0,-1.5,-20,-0.02571024
+401282237,2021,8,False,Louisiana Tech,Conference USA,16,1311.0,UT San Antonio,Conference USA,45,1571.0,5.5,29,-0.08242957
+401282111,2021,8,False,Alabama,SEC,52,2192.0,Tennessee,SEC,24,1636.0,-25.5,-28,-0.096826
+401310727,2021,8,False,Fresno State,Mountain West,34,1603.0,Nevada,Mountain West,32,1546.0,-3.5,-2,-0.007341597
+401309626,2021,8,False,Louisiana Monroe,Sun Belt,41,985.0,South Alabama,Sun Belt,31,1420.0,13.5,-10,-0.08651894
+401282236,2021,8,False,Florida International,Conference USA,19,1193.0,Western Kentucky,Conference USA,34,1422.0,16.5,15,-0.07886778
+401310724,2021,8,False,Air Force,Mountain West,14,1713.0,San Diego State,Mountain West,20,1627.0,-3.0,6,-0.043036688
+401287927,2021,8,False,TCU,Big 12,17,1640.0,West Virginia,Big 12,29,1480.0,-4.5,12,-0.021511931
+401282114,2021,8,False,Texas A&M,SEC,44,1777.0,South Carolina,SEC,14,1353.0,-19.5,-30,-0.01631221
+401282667,2021,8,False,Virginia,ACC,48,1622.0,Georgia Tech,ACC,40,1426.0,-6.5,-8,0.017674671
+401282730,2021,8,False,Indiana,Big Ten,7,1536.0,Ohio State,Big Ten,54,2064.0,21.0,47,-0.2630568
+401282709,2021,8,False,Notre Dame,FBS Independents,31,1808.0,USC,Pac-12,16,1612.0,-7.5,-15,-0.041012004
+401309880,2021,8,False,Oregon State,Pac-12,42,1528.0,Utah,Pac-12,34,1713.0,3.0,-8,-0.075282305
+401282665,2021,8,False,Miami,ACC,31,1519.0,NC State,ACC,30,1627.0,3.5,-1,-0.041343115
+401309627,2021,9,False,Coastal Carolina,Sun Belt,35,1815.0,Troy,Sun Belt,28,1381.0,-17.0,-7,0.00036065187
+401301033,2021,9,False,East Carolina,American Athletic,29,1481.0,South Florida,American Athletic,14,1209.0,-9.5,-15,0.011700412
+401301030,2021,9,False,Tulsa,American Athletic,17,1413.0,Navy,American Athletic,20,1305.0,-11.0,3,-0.00909787
+401310734,2021,9,False,Nevada,Mountain West,51,1546.0,UNLV,Mountain West,20,1188.0,-19.0,-31,-0.0035209768
+401309631,2021,9,False,Louisiana,Sun Belt,45,1723.0,Texas State,Sun Belt,0,1191.0,-21.0,-45,-0.008439988
+401282674,2021,9,False,Pittsburgh,ACC,34,1745.0,Miami,ACC,38,1523.0,-9.5,4,-0.021509897
+401287929,2021,9,False,Baylor,Big 12,31,1676.0,Texas,Big 12,24,1849.0,-2.5,-7,-0.1262294
+401282763,2021,9,False,Wisconsin,Big Ten,27,1725.0,Iowa,Big Ten,7,1839.0,-3.0,-20,-0.12710778
+401282777,2021,9,False,Michigan State,Big Ten,37,1615.0,Michigan,Big Ten,33,1881.0,4.0,-4,-0.13977298
+401282671,2021,9,False,Georgia Tech,ACC,17,1426.0,Virginia Tech,ACC,26,1523.0,-3.5,9,-0.023244027
+401282726,2021,9,False,Maryland,Big Ten,38,1313.0,Indiana,Big Ten,35,1464.0,-3.5,-3,-0.022443999
+401286297,2021,9,False,Liberty,FBS Independents,62,1654.0,UMass,FBS Independents,17,826.0,-35.5,-45,-0.0031809323
+401301031,2021,9,False,Temple,American Athletic,7,1083.0,UCF,American Athletic,49,1594.0,11.5,42,-0.12462634
+401309578,2021,9,False,Buffalo,Mid-American,44,1535.0,Bowling Green,Mid-American,56,995.0,-13.5,12,-0.0038426612
+401282719,2021,9,False,Illinois,Big Ten,14,1362.0,Rutgers,Big Ten,20,1417.0,1.5,6,-0.022812113
+401301032,2021,9,False,Tulane,American Athletic,12,1338.0,Cincinnati,American Athletic,31,1951.0,28.0,19,-0.18968406
+401287933,2021,9,False,West Virginia,Big 12,38,1522.0,Iowa State,Big 12,31,1888.0,7.5,-7,-0.14174318
+401282246,2021,9,False,Rice,Conference USA,24,1140.0,North Texas,Conference USA,30,1168.0,-1.5,6,-0.051909477
+401282119,2021,9,False,Vanderbilt,SEC,28,1032.0,Missouri,SEC,37,1380.0,16.0,9,-0.09383434
+401309885,2021,9,False,Arizona State,Pac-12,21,1715.0,Washington State,Pac-12,34,1483.0,-16.5,13,-0.032084644
+401310731,2021,9,False,Utah State,Mountain West,51,1344.0,Hawai'i,Mountain West,31,1365.0,-4.5,-20,-0.015129589
+401282242,2021,9,False,Marshall,Conference USA,38,1610.0,Florida International,Conference USA,0,1180.0,-21.5,-38,-0.010923393
+401309628,2021,9,False,Appalachian State,Sun Belt,59,1627.0,Louisiana Monroe,Sun Belt,28,1038.0,-27.0,-31,-0.00018815696
+401309884,2021,9,False,Oregon,Pac-12,52,1708.0,Colorado,Pac-12,29,1363.0,-24.5,-23,-0.0379641
+401282117,2021,9,True,Florida,SEC,7,1781.0,Georgia,SEC,34,2114.0,14.0,27,-0.2509187
+401287931,2021,9,False,Oklahoma,Big 12,52,1846.0,Texas Tech,Big 12,21,1493.0,-19.0,-31,-0.038112618
+401282244,2021,9,False,Old Dominion,Conference USA,23,1180.0,Louisiana Tech,Conference USA,20,1262.0,4.0,-3,-0.04782193
+401282795,2021,9,False,Northwestern,Big Ten,14,1452.0,Minnesota,Big Ten,41,1633.0,7.5,27,-0.090284206
+401287930,2021,9,False,Kansas State,Big 12,31,1547.0,TCU,Big 12,12,1598.0,-3.5,-19,-0.042881362
+401282801,2021,9,False,Nebraska,Big Ten,23,1715.0,Purdue,Big Ten,28,1603.0,-7.5,5,-0.037893157
+401282245,2021,9,False,Middle Tennessee,Conference USA,35,1321.0,Southern Mississippi,Conference USA,10,1142.0,-12.5,-25,-0.006095521
+401282670,2021,9,False,Clemson,ACC,30,1824.0,Florida State,ACC,20,1510.0,-9.5,-10,-0.012028458
+401282675,2021,9,False,Syracuse,ACC,21,1466.0,Boston College,ACC,6,1453.0,-6.5,-15,-0.0071386006
+401282241,2021,9,False,Western Kentucky,Conference USA,45,1435.0,Charlotte,Conference USA,13,1282.0,-19.5,-32,-0.03662246
+401310732,2021,9,False,San José State,Mountain West,27,1381.0,Wyoming,Mountain West,21,1488.0,-3.0,-6,-0.011730069
+401282676,2021,9,False,Wake Forest,ACC,45,1670.0,Duke,ACC,7,1185.0,-16.5,-38,0.0070197396
+401309629,2021,9,False,South Alabama,Sun Belt,31,1367.0,Arkansas State,Sun Belt,13,1211.0,-9.0,-18,0.00208503
+401282243,2021,9,False,Florida Atlantic,Conference USA,28,1597.0,UTEP,Conference USA,25,1313.0,-10.5,-3,0.016210804
+401309630,2021,9,False,Georgia Southern,Sun Belt,14,1357.0,Georgia State,Sun Belt,21,1344.0,6.0,7,-0.035627104
+401309882,2021,9,False,California,Pac-12,39,1483.0,Oregon State,Pac-12,25,1552.0,2.0,-14,-0.028034441
+401282116,2021,9,False,Auburn,SEC,31,1729.0,Ole Miss,SEC,20,1750.0,-3.0,-11,-0.08689976
+401282118,2021,9,False,Mississippi State,SEC,31,1583.0,Kentucky,SEC,17,1672.0,-1.0,-14,-0.062415108
+401287932,2021,9,False,Oklahoma State,Big 12,55,1719.0,Kansas,Big 12,3,1027.0,-29.0,-52,-0.013289046
+401301034,2021,9,False,Houston,American Athletic,44,1668.0,SMU,American Athletic,37,1633.0,1.0,-7,-0.04408194
+401309886,2021,9,False,USC,Pac-12,41,1598.0,Arizona,Pac-12,34,1193.0,-21.5,-7,0.004757412
+401310730,2021,9,False,Colorado State,Mountain West,19,1522.0,Boise State,Mountain West,28,1677.0,2.0,9,-0.06856693
+401282673,2021,9,False,Notre Dame,FBS Independents,44,1822.0,North Carolina,ACC,34,1668.0,-3.5,-10,-0.05648777
+401282814,2021,9,False,Ohio State,Big Ten,33,2136.0,Penn State,Big Ten,24,1773.0,-18.5,-9,-0.11467253
+401282672,2021,9,False,NC State,ACC,28,1623.0,Louisville,ACC,13,1551.0,-6.0,-15,-0.014939735
+401309887,2021,9,False,Utah,Pac-12,44,1689.0,UCLA,Pac-12,24,1627.0,-6.5,-20,-0.05174745
+401282669,2021,9,False,BYU,FBS Independents,66,1710.0,Virginia,ACC,49,1622.0,-2.5,-17,-0.04431638
+401310733,2021,9,False,San Diego State,Mountain West,20,1644.0,Fresno State,Mountain West,30,1603.0,2.5,10,-0.047784727
+401309883,2021,9,False,Stanford,Pac-12,13,1503.0,Washington,Pac-12,20,1665.0,-2.5,7,-0.062039964
+401309579,2021,10,False,Akron,Mid-American,25,962.0,Ball State,Mid-American,31,1494.0,20.0,6,-0.11122766
+401309580,2021,10,False,Toledo,Mid-American,49,1503.0,Eastern Michigan,Mid-American,52,1480.0,-9.5,3,-0.010788891
+401308839,2021,10,False,Ohio,Mid-American,35,1331.0,Miami (OH),Mid-American,33,1411.0,7.0,-2,-0.032364726
+401309582,2021,10,False,Kent State,Mid-American,52,1301.0,Northern Illinois,Mid-American,47,1257.0,-3.5,-5,-0.015632598
+401309581,2021,10,False,Western Michigan,Mid-American,30,1466.0,Central Michigan,Mid-American,42,1357.0,-9.0,12,-0.0051433947
+401309632,2021,10,False,Louisiana,Sun Belt,21,1786.0,Georgia State,Sun Belt,17,1358.0,-13.5,-4,0.008190726
+401282677,2021,10,False,Boston College,ACC,17,1423.0,Virginia Tech,ACC,3,1533.0,1.0,-14,-0.027432218
+401309888,2021,10,False,Stanford,Pac-12,7,1502.0,Utah,Pac-12,52,1729.0,11.0,45,-0.15050563
+401310253,2021,10,True,Air Force,Mountain West,14,1696.0,Army,FBS Independents,21,1568.0,-2.5,7,-0.029749647
+401282250,2021,10,False,UAB,Conference USA,52,1512.0,Louisiana Tech,Conference USA,38,1260.0,-13.5,-14,0.009540601
+401301039,2021,10,False,Memphis,American Athletic,28,1504.0,SMU,American Athletic,25,1625.0,3.5,-3,-0.040468175
+401282122,2021,10,False,Georgia,SEC,43,2142.0,Missouri,SEC,6,1371.0,-40.0,-37,-0.0820414
+401287935,2021,10,False,Kansas,Big 12,10,962.0,Kansas State,Big 12,35,1596.0,24.0,25,-0.13033228
+401282124,2021,10,False,Ole Miss,SEC,27,1729.0,Liberty,FBS Independents,14,1684.0,-7.5,-13,-0.067286894
+401282799,2021,10,False,Nebraska,Big Ten,17,1698.0,Ohio State,Big Ten,26,2128.0,14.0,9,-0.24318644
+401282682,2021,10,False,North Carolina,ACC,58,1662.0,Wake Forest,ACC,55,1718.0,-2.5,-3,-0.07427498
+401282720,2021,10,False,Minnesota,Big Ten,6,1685.0,Illinois,Big Ten,14,1355.0,-14.5,8,-0.0025096312
+401282678,2021,10,False,Duke,ACC,29,1137.0,Pittsburgh,ACC,54,1723.0,21.0,25,-0.13717018
+401282681,2021,10,False,Miami,ACC,33,1545.0,Georgia Tech,ACC,30,1416.0,-10.0,-3,0.00685139
+401309633,2021,10,False,Arkansas State,Sun Belt,14,1186.0,Appalachian State,Sun Belt,48,1645.0,21.5,34,-0.12821105
+401282252,2021,10,False,Southern Mississippi,Conference USA,14,1099.0,North Texas,Conference USA,38,1177.0,5.5,24,-0.07222098
+401309635,2021,10,False,Texas State,Sun Belt,27,1128.0,Louisiana Monroe,Sun Belt,19,1020.0,-3.0,-8,-0.036501255
+401301035,2021,10,False,East Carolina,American Athletic,45,1489.0,Temple,American Athletic,3,1025.0,-15.5,-42,0.0028411672
+401309889,2021,10,False,Arizona,Pac-12,10,1204.0,California,Pac-12,3,1517.0,7.0,-7,-0.056300484
+401287937,2021,10,False,West Virginia,Big 12,3,1554.0,Oklahoma State,Big 12,24,1784.0,3.5,21,-0.121598735
+401287936,2021,10,False,TCU,Big 12,30,1549.0,Baylor,Big 12,28,1696.0,7.5,-2,-0.07189396
+401310736,2021,10,False,Wyoming,Mountain West,31,1475.0,Colorado State,Mountain West,17,1517.0,3.0,-14,-0.018969439
+401282768,2021,10,False,Maryland,Big Ten,14,1316.0,Penn State,Big Ten,31,1781.0,10.0,17,-0.10843306
+401301037,2021,10,False,Cincinnati,American Athletic,28,1939.0,Tulsa,American Athletic,20,1402.0,-22.5,-8,-0.020486724
+401282126,2021,10,False,Texas A&M,SEC,20,1809.0,Auburn,SEC,3,1750.0,-4.5,-17,-0.091839075
+401282787,2021,10,False,Purdue,Big Ten,40,1620.0,Michigan State,Big Ten,29,1626.0,2.5,-11,-0.045764126
+401309636,2021,10,False,Troy,Sun Belt,31,1394.0,South Alabama,Sun Belt,24,1392.0,-3.5,-7,-0.004477836
+401282251,2021,10,False,Western Kentucky,Conference USA,48,1503.0,Middle Tennessee,Conference USA,21,1364.0,-17.5,-27,-0.033507984
+401282824,2021,10,False,Rutgers,Big Ten,3,1424.0,Wisconsin,Big Ten,52,1784.0,13.0,49,-0.1746123
+401309914,2021,10,False,BYU,FBS Independents,59,1863.0,Idaho State,Big Sky,14,1003.0,-36.5,-45,-0.02208763
+401282710,2021,10,False,Notre Dame,FBS Independents,34,1828.0,Navy,American Athletic,6,1316.0,-21.0,-28,-0.012584843
+401282247,2021,10,False,Charlotte,Conference USA,31,1214.0,Rice,Conference USA,24,1131.0,-6.5,-7,-0.024864677
+401282679,2021,10,False,Florida State,ACC,14,1514.0,NC State,ACC,28,1648.0,3.0,14,-0.06704484
+401282121,2021,10,False,Arkansas,SEC,31,1593.0,Mississippi State,SEC,28,1619.0,-4.0,-3,-0.034534752
+401310738,2021,10,False,New Mexico State,FBS Independents,13,1106.0,Utah State,Mountain West,35,1393.0,18.5,22,-0.09397838
+401301036,2021,10,False,UCF,American Athletic,14,1652.0,Tulane,American Athletic,10,1350.0,-13.5,-4,0.011615557
+401282249,2021,10,False,Florida Atlantic,Conference USA,13,1594.0,Marshall,Conference USA,28,1664.0,1.5,15,-0.068103775
+401309634,2021,10,False,Georgia Southern,Sun Belt,8,1343.0,Coastal Carolina,Sun Belt,28,1802.0,16.0,20,-0.12953168
+401310735,2021,10,False,Fresno State,Mountain West,14,1627.0,Boise State,Mountain West,40,1682.0,-4.0,26,-0.097091615
+401310737,2021,10,False,New Mexico,Mountain West,17,1228.0,UNLV,Mountain West,31,1147.0,-1.5,14,-0.0411071
+401282248,2021,10,False,Florida International,Conference USA,24,1126.0,Old Dominion,Conference USA,47,1182.0,3.0,23,-0.064253636
+401282757,2021,10,False,Northwestern,Big Ten,12,1400.0,Iowa,Big Ten,17,1780.0,12.0,5,-0.09903171
+401282123,2021,10,False,Kentucky,SEC,42,1636.0,Tennessee,SEC,45,1623.0,1.0,3,-0.04091409
+401282120,2021,10,False,Alabama,SEC,20,2205.0,LSU,SEC,14,1624.0,-29.0,-6,-0.09648679
+401309891,2021,10,False,Colorado,Pac-12,37,1342.0,Oregon State,Pac-12,34,1518.0,11.5,-3,-0.06176205
+401282680,2021,10,False,Louisville,ACC,24,1526.0,Clemson,ACC,30,1820.0,3.5,6,-0.12268853
+401309890,2021,10,False,Washington,Pac-12,16,1666.0,Oregon,Pac-12,26,1729.0,7.0,10,-0.091411784
+401282727,2021,10,False,Michigan,Big Ten,29,1870.0,Indiana,Big Ten,7,1461.0,-20.5,-22,-0.031616796
+401301038,2021,10,False,South Florida,American Athletic,42,1201.0,Houston,American Athletic,54,1676.0,13.5,12,-0.094124846
+401287934,2021,10,False,Iowa State,Big 12,30,1856.0,Texas,Big 12,7,1829.0,-6.0,-23,-0.12594941
+401282125,2021,10,False,South Carolina,SEC,40,1321.0,Florida,SEC,17,1753.0,20.5,-23,-0.1476019
+401310740,2021,10,False,Nevada,Mountain West,27,1587.0,San José State,Mountain West,24,1394.0,-11.5,-3,0.008467868
+401282253,2021,10,False,UTEP,Conference USA,23,1316.0,UT San Antonio,Conference USA,44,1620.0,11.5,21,-0.081201434
+401309892,2021,10,False,Arizona State,Pac-12,31,1662.0,USC,Pac-12,16,1587.0,-9.5,-15,-0.035422236
+401310739,2021,10,False,Hawai'i,Mountain West,10,1316.0,San Diego State,Mountain West,17,1620.0,7.0,7,-0.05722712
+401309584,2021,11,False,Western Michigan,Mid-American,45,1429.0,Akron,Mid-American,40,986.0,-24.5,-5,-0.010521695
+401308840,2021,11,False,Miami (OH),Mid-American,45,1409.0,Buffalo,Mid-American,18,1450.0,-7.0,-27,-0.03413778
+401309583,2021,11,False,Eastern Michigan,Mid-American,26,1486.0,Ohio,Mid-American,34,1333.0,-6.0,8,-0.0038715303
+401309587,2021,11,False,Northern Illinois,Mid-American,30,1254.0,Ball State,Mid-American,29,1470.0,2.5,-1,-0.035071116
+401309585,2021,11,False,Bowling Green,Mid-American,17,1080.0,Toledo,Mid-American,49,1497.0,10.5,32,-0.0903945
+401309586,2021,11,False,Central Michigan,Mid-American,54,1394.0,Kent State,Mid-American,30,1304.0,-2.5,-24,-0.0012496337
+401282683,2021,11,False,Pittsburgh,ACC,30,1727.0,North Carolina,ACC,23,1664.0,-6.5,-7,-0.052923992
+401301040,2021,11,False,South Florida,American Athletic,28,1215.0,Cincinnati,American Athletic,45,1921.0,23.5,17,-0.16446689
+401310742,2021,11,False,Boise State,Mountain West,23,1746.0,Wyoming,Mountain West,13,1507.0,-13.5,-10,-0.01673935
+401282780,2021,11,False,Penn State,Big Ten,17,1778.0,Michigan,Big Ten,21,1882.0,2.5,4,-0.1448927
+401282129,2021,11,False,Florida,SEC,70,1775.0,Samford,Southern,52,1066.0,-36.0,-18,-0.012079082
+401282806,2021,11,False,Wisconsin,Big Ten,35,1885.0,Northwestern,Big Ten,7,1416.0,-25.5,-28,-0.043168247
+401282728,2021,11,False,Indiana,Big Ten,3,1449.0,Rutgers,Big Ten,38,1323.0,-6.5,35,-0.041293003
+401282128,2021,11,False,Auburn,SEC,34,1718.0,Mississippi State,SEC,43,1618.0,-5.5,9,-0.04722359
+401301043,2021,11,False,Temple,American Athletic,8,963.0,Houston,American Athletic,37,1662.0,24.5,29,-0.14010847
+401310254,2021,11,False,Army,FBS Independents,63,1659.0,Bucknell,Patriot,10,969.0,-51.5,-53,-0.08318874
+401301041,2021,11,False,SMU,American Athletic,55,1622.0,UCF,American Athletic,28,1646.0,-7.0,-27,-0.0641256
+401287939,2021,11,False,Kansas State,Big 12,34,1595.0,West Virginia,Big 12,17,1525.0,-6.0,-17,-0.01143172
+401282127,2021,11,False,Alabama,SEC,59,2187.0,New Mexico State,FBS Independents,3,1081.0,-50.5,-56,-0.080066636
+401282687,2021,11,False,Louisville,ACC,41,1536.0,Syracuse,ACC,3,1496.0,-3.0,-38,-0.057017744
+401301042,2021,11,False,Memphis,American Athletic,29,1507.0,East Carolina,American Athletic,30,1551.0,-4.0,1,-0.010835184
+401286304,2021,11,False,UMass,FBS Independents,10,528.0,Maine,CAA,35,1441.0,5.0,25,-0.16057721
+401282684,2021,11,False,Clemson,ACC,44,1810.0,Connecticut,FBS Independents,7,940.0,-40.5,-37,-0.018888406
+401287938,2021,11,False,Baylor,Big 12,27,1694.0,Oklahoma,Big 12,14,1888.0,4.0,-13,-0.14280534
+401282259,2021,11,False,Rice,Conference USA,21,1126.0,Western Kentucky,Conference USA,42,1557.0,19.0,21,-0.09962946
+401309896,2021,11,False,Arizona,Pac-12,29,1233.0,Utah,Pac-12,38,1835.0,24.0,9,-0.15050246
+401309639,2021,11,False,Coastal Carolina,Sun Belt,40,1806.0,Georgia State,Sun Belt,42,1367.0,-12.5,2,0.0045931926
+401309637,2021,11,False,Appalachian State,Sun Belt,31,1686.0,South Alabama,Sun Belt,7,1383.0,-21.5,-24,-0.032274887
+401309640,2021,11,False,Texas State,Sun Belt,30,1133.0,Georgia Southern,Sun Belt,38,1339.0,-2.0,8,-0.050958537
+401282255,2021,11,False,Middle Tennessee,Conference USA,50,1310.0,Florida International,Conference USA,10,1072.0,-10.5,-40,-0.009533849
+401287942,2021,11,False,Texas Tech,Big 12,41,1451.0,Iowa State,Big 12,38,1909.0,12.5,-3,-0.1498321
+401282254,2021,11,False,Louisiana Tech,Conference USA,42,1253.0,Charlotte,Conference USA,32,1219.0,-7.0,-10,-0.019588854
+401282133,2021,11,False,Tennessee,SEC,17,1628.0,Georgia,SEC,41,2157.0,19.5,24,-0.26676047
+401282762,2021,11,False,Iowa,Big Ten,27,1764.0,Minnesota,Big Ten,22,1640.0,-4.0,-5,-0.046139304
+401282686,2021,11,False,Georgia Tech,ACC,30,1417.0,Boston College,ACC,41,1461.0,1.5,11,-0.024228651
+401282257,2021,11,False,Marshall,Conference USA,14,1692.0,UAB,Conference USA,21,1519.0,-4.5,7,-0.020408526
+401282256,2021,11,False,Old Dominion,Conference USA,30,1236.0,Florida Atlantic,Conference USA,16,1566.0,6.5,-14,-0.065606
+401282260,2021,11,False,UT San Antonio,Conference USA,27,1641.0,Southern Mississippi,Conference USA,17,1045.0,-32.5,-10,-0.004648082
+401282812,2021,11,False,Ohio State,Big Ten,59,2113.0,Purdue,Big Ten,31,1640.0,-19.0,-28,-0.08045717
+401309641,2021,11,False,Troy,Sun Belt,21,1403.0,Louisiana,Sun Belt,35,1777.0,6.5,14,-0.10113221
+401282689,2021,11,False,Virginia Tech,ACC,48,1495.0,Duke,ACC,17,1133.0,-13.0,-31,0.005995989
+401282685,2021,11,False,Florida State,ACC,31,1495.0,Miami,ACC,28,1544.0,2.5,-3,-0.020451985
+401310745,2021,11,False,UNLV,Mountain West,27,1187.0,Hawai'i,Mountain West,13,1325.0,3.5,-14,-0.03616579
+401282258,2021,11,False,North Texas,Conference USA,20,1231.0,UTEP,Conference USA,17,1295.0,-1.0,-3,-0.034028575
+401282132,2021,11,False,Missouri,SEC,31,1356.0,South Carolina,SEC,28,1432.0,1.5,-3,-0.019073002
+401301044,2021,11,False,Tulane,American Athletic,13,1356.0,Tulsa,American Athletic,20,1420.0,3.0,7,-0.027117543
+401282771,2021,11,False,Michigan State,Big Ten,40,1606.0,Maryland,Big Ten,21,1319.0,-11.5,-19,0.013386253
+401309638,2021,11,False,Louisiana Monroe,Sun Belt,24,1015.0,Arkansas State,Sun Belt,27,1145.0,-3.0,3,-0.06893939
+401309894,2021,11,False,Oregon State,Pac-12,35,1515.0,Stanford,Pac-12,14,1396.0,-12.5,-21,-0.014727218
+401310743,2021,11,False,Fresno State,Mountain West,34,1563.0,New Mexico,Mountain West,7,1188.0,-24.0,-27,-0.014874119
+401282131,2021,11,False,Ole Miss,SEC,29,1751.0,Texas A&M,SEC,19,1841.0,1.0,-10,-0.12516835
+401282134,2021,11,False,Vanderbilt,SEC,17,1041.0,Kentucky,SEC,34,1631.0,21.5,17,-0.12645994
+401309897,2021,11,False,Washington,Pac-12,30,1651.0,Arizona State,Pac-12,35,1687.0,6.0,5,-0.07119664
+401310741,2021,11,False,Colorado State,Mountain West,21,1485.0,Air Force,Mountain West,35,1679.0,3.0,14,-0.07693364
+401282690,2021,11,False,Wake Forest,ACC,45,1716.0,NC State,ACC,42,1667.0,-1.0,-3,-0.05683945
+401282688,2021,11,False,Virginia,ACC,3,1593.0,Notre Dame,FBS Independents,28,1845.0,8.5,25,-0.14684208
+401287941,2021,11,False,Texas,Big 12,56,1776.0,Kansas,Big 12,57,963.0,-31.0,1,0.011947218
+401282130,2021,11,False,LSU,SEC,13,1642.0,Arkansas,SEC,16,1594.0,3.0,3,-0.03716313
+401287940,2021,11,False,Oklahoma State,Big 12,63,1813.0,TCU,Big 12,17,1551.0,-11.0,-46,-0.054758675
+401309898,2021,11,False,UCLA,Pac-12,44,1587.0,Colorado,Pac-12,20,1345.0,-18.0,-24,-0.018637374
+401310746,2021,11,False,San Diego State,Mountain West,23,1611.0,Nevada,Mountain West,21,1586.0,-2.5,-2,-0.023104038
+401309895,2021,11,False,Oregon,Pac-12,38,1744.0,Washington State,Pac-12,24,1536.0,-13.5,-14,-0.028843094
+401310744,2021,11,False,San José State,Mountain West,17,1395.0,Utah State,Mountain West,48,1418.0,-4.5,31,-0.049885876
+401309589,2021,12,False,Ohio,Mid-American,23,1362.0,Toledo,Mid-American,35,1537.0,7.5,12,-0.047783427
+401309588,2021,12,False,Eastern Michigan,Mid-American,22,1457.0,Western Michigan,Mid-American,21,1418.0,6.0,-1,-0.02457451
+401308841,2021,12,False,Miami (OH),Mid-American,34,1484.0,Bowling Green,Mid-American,7,1040.0,-17.0,-27,0.0076798424
+401309591,2021,12,False,Ball State,Mid-American,17,1463.0,Central Michigan,Mid-American,37,1444.0,2.5,20,-0.040527675
+401309590,2021,12,False,Buffalo,Mid-American,27,1375.0,Northern Illinois,Mid-American,33,1261.0,1.5,6,-0.018514805
+401282691,2021,12,False,Duke,ACC,22,1092.0,Louisville,ACC,62,1640.0,20.0,40,-0.14190966
+401282264,2021,12,False,Louisiana Tech,Conference USA,19,1268.0,Southern Mississippi,Conference USA,35,1066.0,-15.5,16,-0.038713515
+401310747,2021,12,False,Nevada,Mountain West,39,1586.0,Air Force,Mountain West,41,1693.0,1.5,2,-0.06707421
+401309899,2021,12,False,Washington State,Pac-12,44,1525.0,Arizona,Pac-12,18,1259.0,-14.5,-26,-0.00016708858
+401301045,2021,12,False,Houston,American Athletic,31,1664.0,Memphis,American Athletic,13,1508.0,-9.5,-18,-0.010073047
+401310751,2021,12,False,UNLV,Mountain West,20,1228.0,San Diego State,Mountain West,28,1611.0,11.0,8,-0.07509242
+401282692,2021,12,False,Boston College,ACC,23,1481.0,Florida State,ACC,26,1497.0,-3.0,3,-0.003455069
+401282144,2021,12,False,Texas A&M,SEC,52,1931.0,Prairie View,SWAC,3,1170.0,-41.5,-49,-0.07080061
+401282693,2021,12,False,Clemson,ACC,48,1815.0,Wake Forest,ACC,27,1716.0,-3.5,-21,-0.08192471
+401282786,2021,12,False,Ohio State,Big Ten,56,2134.0,Michigan State,Big Ten,7,1622.0,-19.5,-49,-0.088445455
+401286305,2021,12,False,Army,FBS Independents,33,1585.0,UMass,FBS Independents,17,796.0,-37.0,-16,0.0011460036
+401309592,2021,12,False,Akron,Mid-American,0,997.0,Kent State,Mid-American,38,1254.0,13.5,38,-0.10868021
+401282696,2021,12,False,North Carolina,ACC,34,1736.0,Wofford,Southern,14,933.0,-37.0,-20,0.0013863929
+401282808,2021,12,True,Northwestern,Big Ten,14,1394.0,Purdue,Big Ten,32,1619.0,11.0,18,-0.0791363
+401282818,2021,12,False,Penn State,Big Ten,28,1778.0,Rutgers,Big Ten,0,1444.0,-14.0,-28,-0.0125676505
+401287947,2021,12,False,West Virginia,Big 12,31,1494.0,Texas,Big 12,23,1725.0,-2.5,-8,-0.082090795
+401301048,2021,12,False,Tulane,American Athletic,45,1348.0,South Florida,American Athletic,14,1238.0,-5.5,-31,-0.009459691
+401287944,2021,12,False,Oklahoma,Big 12,28,1845.0,Iowa State,Big 12,21,1901.0,-3.0,-7,-0.1441553
+401282263,2021,12,False,Western Kentucky,Conference USA,52,1566.0,Florida Atlantic,Conference USA,17,1506.0,-10.5,-35,-0.041940942
+401282137,2021,12,False,Kentucky,SEC,56,1617.0,New Mexico State,FBS Independents,16,1052.0,-35.5,-40,-0.036433317
+401282140,2021,12,False,Mississippi State,SEC,55,1624.0,Tennessee State,OVC,10,1654.0,-44.0,-45,-0.2003196
+401309644,2021,12,False,Coastal Carolina,Sun Belt,35,1776.0,Texas State,Sun Belt,21,1133.0,-24.5,-14,0.010342335
+401309643,2021,12,False,Georgia State,Sun Belt,28,1397.0,Arkansas State,Sun Belt,20,1142.0,-15.5,-8,-0.0029186755
+401282721,2021,12,False,Iowa,Big Ten,33,1764.0,Illinois,Big Ten,23,1400.0,-12.0,-10,0.0067372145
+401282697,2021,12,False,Notre Dame,FBS Independents,55,1883.0,Georgia Tech,ACC,0,1397.0,-17.5,-55,-0.03207883
+401309903,2021,12,False,Colorado,Pac-12,20,1311.0,Washington,Pac-12,17,1645.0,6.5,-3,-0.06714279
+401282135,2021,12,False,Alabama,SEC,42,2216.0,Arkansas,SEC,35,1601.0,-20.5,-7,-0.076513946
+401282732,2021,12,False,Indiana,Big Ten,14,1328.0,Minnesota,Big Ten,35,1640.0,7.5,21,-0.08016904
+401309642,2021,12,False,Troy,Sun Belt,7,1405.0,Appalachian State,Sun Belt,45,1714.0,9.5,38,-0.1314318
+401282803,2021,12,False,Wisconsin,Big Ten,35,1907.0,Nebraska,Big Ten,28,1713.0,-10.0,-7,-0.07959104
+401282265,2021,12,False,Middle Tennessee,Conference USA,17,1394.0,Old Dominion,Conference USA,24,1296.0,-3.0,7,-0.011783425
+401282770,2021,12,False,Maryland,Big Ten,18,1303.0,Michigan,Big Ten,59,1882.0,15.5,41,-0.18764916
+401282267,2021,12,False,UT San Antonio,Conference USA,34,1620.0,UAB,Conference USA,31,1546.0,-4.0,-3,-0.008133654
+401301047,2021,12,False,Navy,American Athletic,35,1299.0,East Carolina,American Athletic,38,1550.0,3.5,3,-0.035679758
+401282261,2021,12,False,Charlotte,Conference USA,28,1204.0,Marshall,Conference USA,49,1665.0,14.5,21,-0.09913297
+401282698,2021,12,False,Pittsburgh,ACC,48,1733.0,Virginia,ACC,38,1555.0,-13.5,-10,-0.027467318
+401301046,2021,12,False,Cincinnati,American Athletic,48,1898.0,SMU,American Athletic,14,1695.0,-10.0,-34,-0.09144525
+401309645,2021,12,False,Georgia Southern,Sun Belt,17,1339.0,BYU,FBS Independents,34,1739.0,20.0,17,-0.12274432
+401282266,2021,12,False,UTEP,Conference USA,38,1293.0,Rice,Conference USA,28,1117.0,-9.0,-10,-0.0076717883
+401286293,2021,12,False,UCF,American Athletic,49,1573.0,Connecticut,FBS Independents,17,935.0,-30.0,-32,0.0013577864
+401287945,2021,12,False,TCU,Big 12,31,1450.0,Kansas,Big 12,28,1014.0,-21.0,-3,-0.006161468
+401301049,2021,12,False,Tulsa,American Athletic,44,1428.0,Temple,American Athletic,10,961.0,-21.5,-34,-0.0031333007
+401286298,2021,12,False,Liberty,FBS Independents,14,1662.0,Louisiana,Sun Belt,42,1775.0,-4.5,28,-0.12438364
+401282695,2021,12,False,NC State,ACC,41,1667.0,Syracuse,ACC,17,1392.0,-11.5,-24,0.003244847
+401309904,2021,12,False,USC,Pac-12,33,1562.0,UCLA,Pac-12,62,1621.0,3.5,29,-0.08950889
+401282141,2021,12,False,Missouri,SEC,24,1358.0,Florida,SEC,23,1642.0,9.0,-1,-0.066531435
+401287943,2021,12,False,Kansas State,Big 12,10,1626.0,Baylor,Big 12,20,1737.0,-2.5,10,-0.08419405
+401309900,2021,12,False,Stanford,Pac-12,11,1359.0,California,Pac-12,41,1488.0,2.5,30,-0.066856444
+401282262,2021,12,False,Florida International,Conference USA,7,988.0,North Texas,Conference USA,49,1233.0,10.0,42,-0.10796053
+401282142,2021,12,False,South Carolina,SEC,21,1430.0,Auburn,SEC,17,1691.0,7.0,-4,-0.07123879
+401282694,2021,12,False,Miami,ACC,38,1542.0,Virginia Tech,ACC,26,1536.0,-7.0,-12,-0.010437587
+401282139,2021,12,False,Ole Miss,SEC,31,1775.0,Vanderbilt,SEC,17,1055.0,-36.0,-14,-0.008217435
+401282143,2021,12,False,Tennessee,SEC,60,1621.0,South Alabama,Sun Belt,14,1355.0,-28.5,-46,-0.07213816
+401309901,2021,12,False,Utah,Pac-12,38,1809.0,Oregon,Pac-12,7,1755.0,-3.0,-31,-0.10833158
+401287946,2021,12,False,Texas Tech,Big 12,0,1459.0,Oklahoma State,Big 12,23,1914.0,10.0,23,-0.16752483
+401310750,2021,12,False,Utah State,Mountain West,17,1503.0,Wyoming,Mountain West,44,1506.0,-5.5,27,-0.056917034
+401310748,2021,12,False,Boise State,Mountain West,37,1747.0,New Mexico,Mountain West,0,1160.0,-27.5,-37,-0.018912088
+401282138,2021,12,False,LSU,SEC,27,1635.0,Louisiana Monroe,Sun Belt,14,1018.0,-29.0,-13,0.006784251
+401309902,2021,12,False,Oregon State,Pac-12,24,1552.0,Arizona State,Pac-12,10,1693.0,3.0,-14,-0.07417693
+401310749,2021,12,False,Hawai'i,Mountain West,50,1284.0,Colorado State,Mountain West,45,1471.0,3.0,-5,-0.030904122
+401309593,2021,13,False,Ball State,Mid-American,20,1410.0,Buffalo,Mid-American,3,1355.0,-6.0,-17,-0.00074087176
+401309594,2021,13,False,Northern Illinois,Mid-American,21,1281.0,Western Michigan,Mid-American,42,1418.0,7.0,21,-0.054607898
+401310757,2021,13,False,San José State,Mountain West,9,1310.0,Fresno State,Mountain West,40,1591.0,7.0,31,-0.09183541
+401282151,2021,13,False,Mississippi State,SEC,21,1645.0,Ole Miss,SEC,31,1750.0,-2.0,10,-0.088964716
+401310753,2021,13,False,San Diego State,Mountain West,27,1598.0,Boise State,Mountain West,16,1781.0,3.0,-11,-0.100940764
+401287952,2021,13,False,Texas,Big 12,22,1698.0,Kansas State,Big 12,17,1615.0,-2.5,-5,-0.0356796
+401309596,2021,13,False,Bowling Green,Mid-American,21,1018.0,Ohio,Mid-American,10,1351.0,6.5,-11,-0.06723582
+401309595,2021,13,False,Central Michigan,Mid-American,31,1497.0,Eastern Michigan,Mid-American,10,1457.0,-8.5,-21,-0.015950728
+401310755,2021,13,False,New Mexico,Mountain West,10,1126.0,Utah State,Mountain West,35,1430.0,17.0,25,-0.09126282
+401282761,2021,13,False,Nebraska,Big Ten,21,1714.0,Iowa,Big Ten,28,1757.0,-1.0,7,-0.09171446
+401282274,2021,13,False,UAB,Conference USA,42,1546.0,UTEP,Conference USA,25,1298.0,-13.5,-17,0.0072378563
+401310752,2021,13,False,Air Force,Mountain West,48,1690.0,UNLV,Mountain West,14,1241.0,-18.5,-34,-0.0015963204
+401309648,2021,13,False,South Alabama,Sun Belt,21,1254.0,Coastal Carolina,Sun Belt,27,1756.0,15.0,6,-0.10727541
+401282145,2021,13,False,Arkansas,SEC,34,1622.0,Missouri,SEC,17,1366.0,-14.5,-17,-0.0035919193
+401301051,2021,13,False,East Carolina,American Athletic,13,1540.0,Cincinnati,American Athletic,35,1967.0,14.5,22,-0.19106454
+401301050,2021,13,False,UCF,American Athletic,17,1588.0,South Florida,American Athletic,13,1168.0,-17.0,-4,0.01124319
+401309906,2021,13,False,Utah,Pac-12,28,1886.0,Colorado,Pac-12,13,1317.0,-24.0,-15,-0.0153615195
+401287949,2021,13,False,Iowa State,Big 12,48,1888.0,TCU,Big 12,14,1446.0,-15.5,-34,-0.021079421
+401282699,2021,13,False,NC State,ACC,34,1697.0,North Carolina,ACC,30,1658.0,-6.5,-4,-0.04827486
+401309905,2021,13,False,Washington,Pac-12,13,1639.0,Washington State,Pac-12,40,1562.0,1.0,27,-0.07443589
+401282700,2021,13,False,Boston College,ACC,10,1477.0,Wake Forest,ACC,41,1676.0,6.5,31,-0.10587029
+401282148,2021,13,False,Georgia Tech,ACC,0,1296.0,Georgia,SEC,45,2164.0,35.5,45,-0.2978366
+401308842,2021,13,False,Kent State,Mid-American,48,1332.0,Miami (OH),Mid-American,47,1506.0,1.5,-1,-0.023856293
+401309597,2021,13,False,Toledo,Mid-American,49,1548.0,Akron,Mid-American,14,919.0,-28.5,-35,0.002737645
+401282781,2021,13,False,Michigan,Big Ten,42,1929.0,Ohio State,Big Ten,27,2212.0,6.5,-15,-0.2717153
+401301054,2021,13,False,Temple,American Athletic,14,923.0,Navy,American Athletic,38,1309.0,13.5,24,-0.105615735
+401287948,2021,13,False,Baylor,Big 12,27,1748.0,Texas Tech,Big 12,24,1448.0,-14.0,-3,-0.0054724924
+401282766,2021,13,False,Rutgers,Big Ten,16,1409.0,Maryland,Big Ten,40,1256.0,-1.5,24,-0.034277607
+401286299,2021,13,False,Liberty,FBS Independents,16,1599.0,Army,FBS Independents,31,1557.0,-3.5,15,-0.042622793
+401282147,2021,13,False,Florida,SEC,24,1634.0,Florida State,ACC,21,1501.0,-4.0,-3,0.0045647398
+401301052,2021,13,False,Connecticut,FBS Independents,17,920.0,Houston,American Athletic,45,1689.0,32.0,28,-0.17953031
+401282701,2021,13,False,Duke,ACC,10,1044.0,Miami,ACC,47,1564.0,20.5,37,-0.1253689
+401282271,2021,13,False,Rice,Conference USA,35,1112.0,Louisiana Tech,Conference USA,31,1208.0,4.0,-4,-0.057125896
+401282273,2021,13,False,North Texas,Conference USA,45,1326.0,UT San Antonio,Conference USA,23,1620.0,8.5,-22,-0.08226532
+401309647,2021,13,False,Arkansas State,Sun Belt,22,1145.0,Texas State,Sun Belt,24,1153.0,-2.0,2,-0.048076242
+401309649,2021,13,False,Georgia State,Sun Belt,37,1394.0,Troy,Sun Belt,10,1334.0,-6.5,-27,-0.014878115
+401282268,2021,13,False,Old Dominion,Conference USA,56,1317.0,Charlotte,Conference USA,34,1198.0,-8.5,-22,-0.005816512
+401309646,2021,13,False,Appalachian State,Sun Belt,27,1785.0,Georgia Southern,Sun Belt,3,1337.0,-24.5,-24,-0.030441687
+401310756,2021,13,False,Wyoming,Mountain West,14,1579.0,Hawai'i,Mountain West,38,1297.0,-13.0,24,-0.016825609
+401286306,2021,13,False,New Mexico State,FBS Independents,44,1007.0,UMass,FBS Independents,27,824.0,-7.0,-17,-0.043852232
+401282269,2021,13,False,Southern Mississippi,Conference USA,37,1126.0,Florida International,Conference USA,17,895.0,-14.5,-20,-0.021922909
+401282272,2021,13,False,Marshall,Conference USA,21,1671.0,Western Kentucky,Conference USA,53,1656.0,-1.5,32,-0.10341045
+401282753,2021,13,False,Purdue,Big Ten,44,1633.0,Indiana,Big Ten,7,1308.0,-17.5,-37,-0.016805917
+401282722,2021,13,False,Illinois,Big Ten,47,1407.0,Northwestern,Big Ten,14,1380.0,-7.0,-33,-0.031162616
+401309908,2021,13,False,Oregon,Pac-12,38,1678.0,Oregon State,Pac-12,29,1593.0,-7.5,-9,-0.030387156
+401282146,2021,13,False,Auburn,SEC,22,1680.0,Alabama,SEC,24,2195.0,20.5,2,-0.26614535
+401282785,2021,13,False,Michigan State,Big Ten,30,1544.0,Penn State,Big Ten,27,1813.0,4.5,-3,-0.11152321
+401282703,2021,13,False,Virginia,ACC,24,1550.0,Virginia Tech,ACC,29,1514.0,-7.0,5,-0.009239901
+401282153,2021,13,False,Tennessee,SEC,45,1722.0,Vanderbilt,SEC,21,1080.0,-32.0,-24,-0.011334185
+401282794,2021,13,False,Minnesota,Big Ten,23,1660.0,Wisconsin,Big Ten,13,1906.0,7.0,-10,-0.14841953
+401301055,2021,13,False,SMU,American Athletic,31,1626.0,Tulsa,American Athletic,34,1466.0,-6.5,3,0.0007672813
+401309909,2021,13,False,Arizona State,Pac-12,38,1652.0,Arizona,Pac-12,15,1222.0,-20.0,-23,0.002086578
+401309650,2021,13,False,Louisiana,Sun Belt,21,1838.0,Louisiana Monroe,Sun Belt,16,1038.0,-21.5,-5,0.025534043
+401282150,2021,13,False,LSU,SEC,27,1615.0,Texas A&M,SEC,24,1817.0,6.5,-3,-0.11545855
+401287950,2021,13,False,Kansas,Big 12,28,1018.0,West Virginia,Big 12,34,1521.0,15.5,6,-0.09541793
+401282270,2021,13,False,Florida Atlantic,Conference USA,17,1416.0,Middle Tennessee,Conference USA,27,1373.0,-3.5,10,-0.01287695
+401301053,2021,13,False,Memphis,American Athletic,33,1483.0,Tulane,American Athletic,28,1418.0,-5.5,-5,0.0093963025
+401282702,2021,13,False,Syracuse,ACC,14,1362.0,Pittsburgh,ACC,31,1738.0,12.5,17,-0.10567884
+401282149,2021,13,False,Louisville,ACC,21,1688.0,Kentucky,SEC,52,1662.0,-3.0,31,-0.10436617
+401287951,2021,13,False,Oklahoma State,Big 12,37,1925.0,Oklahoma,Big 12,33,1858.0,-4.0,-4,-0.1307841
+401282152,2021,13,False,South Carolina,SEC,0,1441.0,Clemson,ACC,30,1855.0,11.5,30,-0.16256392
+401282711,2021,13,False,Stanford,Pac-12,14,1291.0,Notre Dame,FBS Independents,45,1984.0,21.0,31,-0.2024579
+401310754,2021,13,False,Colorado State,Mountain West,10,1458.0,Nevada,Mountain West,52,1589.0,3.0,42,-0.10625933
+401309907,2021,13,False,UCLA,Pac-12,42,1694.0,California,Pac-12,14,1556.0,-6.5,-28,-0.03478995
+401309910,2021,13,False,USC,Pac-12,31,1489.0,BYU,FBS Independents,35,1741.0,8.5,4,-0.08462061
+401282156,2021,14,False,UT San Antonio,Conference USA,49,1532.0,Western Kentucky,Conference USA,41,1749.0,3.5,-8,-0.087582536
+401331159,2021,14,True,Utah,Pac-12,38,1872.0,Oregon,Pac-12,10,1687.0,-3.0,-28,-0.08228664
+401287953,2021,14,True,Oklahoma State,Big 12,16,1926.0,Baylor,Big 12,21,1745.0,-7.0,5,-0.091419645
+401331160,2021,14,True,Northern Illinois,Mid-American,41,1243.0,Kent State,Mid-American,23,1338.0,4.0,-18,-0.026818782
+401310676,2021,14,False,San Diego State,Mountain West,13,1633.0,Utah State,Mountain West,46,1462.0,-6.5,33,-0.059238695
+401331161,2021,14,False,Louisiana,Sun Belt,24,1815.0,Appalachian State,Sun Belt,16,1799.0,2.5,-8,-0.112211585
+401282154,2021,14,True,Alabama,SEC,41,2173.0,Georgia,SEC,24,2190.0,6.5,-17,-0.27211127
+401331162,2021,14,False,Cincinnati,American Athletic,35,1979.0,Houston,American Athletic,20,1683.0,-10.5,-15,-0.0694115
+401331163,2021,14,True,Wake Forest,ACC,21,1738.0,Pittsburgh,ACC,45,1742.0,3.5,24,-0.10925588
+401331447,2021,14,True,Iowa,Big Ten,3,1767.0,Michigan,Big Ten,42,1988.0,12.0,39,-0.21281326
+401387250,2021,14,False,California,Pac-12,24,1499.0,USC,Pac-12,14,1498.0,-4.5,-10,-0.0016882308
+401301056,2021,15,False,Army,FBS Independents,13,1596.0,Navy,American Athletic,17,1330.0,7.0,4,-0.03255651
